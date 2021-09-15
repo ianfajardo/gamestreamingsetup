@@ -101,7 +101,6 @@ export default function BestStreamingSetupTwitch() {
             <div className="col-lg-3">
               <a
                 href="https://www.amazon.com/Logitech-C920x-Pro-HD-Webcam/dp/B085TFF7M1?dchild=1&keywords=logitech+webcam&qid=1631743217&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=9a4f7415a6688834001f56eada38fcf7&language=en_US&ref_=as_li_ss_il"
-                target="_blank"
               >
                 <Image
                   border="0"

@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 import LazyLoad from "react-lazyload";
 
 import Navigation from "../components/Navigation";
@@ -72,9 +73,9 @@ export default function Home() {
                   See our recommendations and tips on video game streaming on
                   Twitch and more!
                 </p>
-                <a href="/best-streaming-setup-twitch" className="btn btn-lg btn-secondary text-white me-3">
+                <Link href="/best-streaming-setup-twitch" className="btn btn-lg btn-secondary text-white me-3">
                   Recommended Streaming Setup
-                </a>
+                </Link>
                 <a className="btn btn-lg btn-primary text-white me-3">
                   Read Our Blog
                 </a>
