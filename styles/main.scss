@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400;700;800&display=swap");
+
+@import "elevation";
+@import "variables";
+@import "~bootstrap/scss/bootstrap";
+
+h1 {
+  font-weight: 800;
+}
+
+.navbar {
+  position: relative;
+  z-index: 5;
+  font-size: 16px;
+  color: #ffffff;
+  .navbar-nav .nav-link {
+    color: #ffffff;
+  }
+  .btn {
+    font-size: 14px;
+  }
+  .dropdown-item {
+    font-size: 16px;
+  }
+}
+
+.btn {
+  border-radius: 30px;
+  padding: 0.5rem 1rem;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.nav-logo {
+  max-width: 350px;
+}
+
+.nav-social {
+  display: block;
+  width: 45px;
+  padding: 10px 10px;
+  color: #ffffff;
+
+  &:hover {
+    color: rgba(255, 255, 255, 0.75);
+  }
+}
+
+.gss-homepage-bg {
+  position: relative;
+  background: #220b57;
+  background: url("/gss-jumbo.jpg") center center no-repeat;
+  background-size: cover;
+  margin: 15px;
+  border-radius: 50px;
+  overflow: hidden;
+
+  &:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #220b57;
+    opacity: 0.8;
+    content: "";
+    z-index: 2;
+  }
+}
+
+.gss-jumbo {
+  position: relative;
+  //background: url("/gss-jumbo.jpg") center center no-repeat;
+  background-size: cover;
+  padding: 160px 0;
+
+  h1 {
+    font-size: 5rem;
+  }
+
+  .row {
+    height: 100%;
+    position: relative;
+    z-index: 3;
+  }
+}
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) {
+  .gss-jumbo h1 {
+    font-size: 2.5rem;
+  }
+}
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {
+  .gss-jumbo h1 {
+    font-size: 3rem;
+  }
+}
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) {
+}
+
+// Extra large devices (large desktops)
+// No media query since the extra-large breakpoint has no upper bound on its width
