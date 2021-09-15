@@ -2,7 +2,8 @@ import Head from "next/head";
 import Image from "next/image";
 import LazyLoad from "react-lazyload";
 
-import Navigation from "./components/navigation";
+import Navigation from "../components/Navigation";
+import Footer from "../components/Footer";
 
 export default function Home() {
   return (
@@ -50,17 +51,16 @@ export default function Home() {
         <meta
           property="twitter:description"
           content="The ultimate guide covering all aspects of how to start video game streaming online today! Read our tips, gear recommendations and Twitch tips."
-        >
-          <meta
-            property="twitter:image"
-            content="https://gamestreamingsetup.com/gss-logo-long.png"
-          />
-        </meta>
+        />
+        <meta
+          property="twitter:image"
+          content="https://gamestreamingsetup.com/gss-logo-long.png"
+        />
       </Head>
 
-      <div className="gss-homepage-bg">
+      <div className="gss-homepage-bg ele-3">
         <LazyLoad>
-          <Navigation></Navigation>
+          <Navigation bg="transparent"></Navigation>
         </LazyLoad>
 
         <div className="gss-jumbo">
@@ -68,14 +68,14 @@ export default function Home() {
             <div className="row align-items-center" style={{ height: "100%" }}>
               <div className="col-lg-12 text-white text-center">
                 <h1>Get the Ultimate Streaming Setup.</h1>
-                <p className="lead">
+                <p className="lead py-3">
                   See our recommendations and tips on video game streaming on
                   Twitch and more!
                 </p>
-                <a className="btn btn-lg btn-secondary text-white mr-3">
-                  Streaming Gear
-                </a>{" "}
-                <a className="btn btn-lg btn-primary text-white mr-3">
+                <a href="/best-streaming-setup-twitch" className="btn btn-lg btn-secondary text-white me-3">
+                  Recommended Streaming Setup
+                </a>
+                <a className="btn btn-lg btn-primary text-white me-3">
                   Read Our Blog
                 </a>
               </div>
@@ -84,11 +84,27 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="container">
-        <div className="row">
-          <div className="col-lg-12">asdf</div>
+      <div id="getstarted">
+        <div className="container mt-5">
+          <div className="row">
+            <div className="col-lg-12">
+              <h2>Get Started Here.</h2>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-lg-3">
+              <div className="card">
+                <h3>Streaming Guides</h3>
+              </div>
+            </div>
+            <div className="col-lg-3"></div>
+            <div className="col-lg-3"></div>
+            <div className="col-lg-3"></div>
+          </div>
         </div>
       </div>
+
+      <Footer/>
     </div>
   );
 }

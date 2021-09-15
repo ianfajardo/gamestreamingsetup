@@ -1,3 +1,5 @@
+import {useState, useEffect} from 'react';
+
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Form from "react-bootstrap/Form";
@@ -12,11 +14,12 @@ import { faTwitter, faInstagram } from "@fortawesome/free-brands-svg-icons";
 
 library.add(fab, faTwitter, faInstagram);
 
-export default function Navigation() {
+export default function Navigation(props) {
+
   return (
     <div>
-      <Navbar expand="lg" bg="transparent" variant="dark">
-        <Container fluid>
+      <Navbar expand="lg" bg={props.bg} variant="dark">
+        <Container>
           <Navbar.Brand className="text-primary font-weight-bolder" href="/">
             <img
               src="/game-streaming-setup-logo.png"
@@ -26,7 +29,7 @@ export default function Navigation() {
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
-            <Nav className="ml-auto">
+            <Nav className="ms-auto">
               <NavDropdown title="Streaming Gear" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/capture-cards">
                   Capture Cards
@@ -42,6 +45,12 @@ export default function Navigation() {
                 </NavDropdown.Item>
                 <NavDropdown.Item href="/webcams">
                   Headphones
+                </NavDropdown.Item>
+                <NavDropdown.Item href="/webcams">
+                  Keyboards
+                </NavDropdown.Item>
+                <NavDropdown.Item href="/webcams">
+                  Mice
                 </NavDropdown.Item>
               </NavDropdown>
               <Nav.Link href="/keyboards">Computer Setups</Nav.Link>
