@@ -1,6 +1,6 @@
 import Head from "next/head";
-import Image from "next/image";
 import LazyLoad from "react-lazyload";
+import Image from 'next/image'
 
 import Navigation from "../components/Navigation";
 import Footer from "../components/Footer";
@@ -54,7 +54,7 @@ export default function BestStreamingSetupTwitch() {
             </div>
             <div className="col-lg-4">
               <LazyLoad>
-                <img
+                <Image
                   className="img-fluid img-radius"
                   src="/gss-stock-1.jpg"
                   alt="Streaming Twitch Call of Duty Gear"
@@ -103,12 +103,12 @@ export default function BestStreamingSetupTwitch() {
                 href="https://www.amazon.com/Logitech-C920x-Pro-HD-Webcam/dp/B085TFF7M1?dchild=1&keywords=logitech+webcam&qid=1631743217&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=9a4f7415a6688834001f56eada38fcf7&language=en_US&ref_=as_li_ss_il"
                 target="_blank"
               >
-                <img
+                <Image
                   border="0"
                   src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B085TFF7M1&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
                 />
               </a>
-              <img
+              <Image
                 src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B085TFF7M1"
                 width="1"
                 height="1"

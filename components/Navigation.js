@@ -70,7 +70,6 @@ export default function Navigation(props) {
               href="https://www.twitter.com/tryorthokeys"
             >
               <FontAwesomeIcon
-                className="icon-size"
                 icon={["fab", "twitter"]}
                 size="lg"
                 className="icon-size ml-auto"
@@ -81,7 +80,6 @@ export default function Navigation(props) {
               href="https://www.instagram.com/try_ortho_keys"
             >
               <FontAwesomeIcon
-                className="icon-size"
                 icon={["fab", "instagram"]}
                 size="lg"
                 className="icon-size ml-auto"
