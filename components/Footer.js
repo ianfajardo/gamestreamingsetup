@@ -71,17 +71,7 @@ export default function Navigation(props) {
               <div className="d-flex mt-3">
                 <a
                   className="nav-social"
-                  href="https://www.twitter.com/tryorthokeys"
-                >
-                  <FontAwesomeIcon
-                    icon={["fab", "twitter"]}
-                    size="lg"
-                    className="icon-size ml-auto"
-                  />
-                </a>
-                <a
-                  className="nav-social"
-                  href="https://www.instagram.com/try_ortho_keys"
+                  href="https://www.instagram.com/gamestreamingsetup"
                 >
                   <FontAwesomeIcon
                     icon={["fab", "instagram"]}
