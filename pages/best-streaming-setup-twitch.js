@@ -60,8 +60,8 @@ export default function BestStreamingSetupTwitch() {
                 especially when starting off.
               </p>
               <p>
-                In this article, we'll go over the must-have gear
-                you'll need to stream with your current gaming setup!
+                In this article, we'll go over the must-have gear you'll need to
+                stream with your current gaming setup!
               </p>
             </div>
             <div className="col-lg-4">
@@ -112,18 +112,17 @@ export default function BestStreamingSetupTwitch() {
           </div>
           <div className="row mt-4">
             <div className="col-lg-3">
-              <a href="https://www.amazon.com/Blue-Premium-Recording-Streaming-Blackout-988-000400/dp/B07QLNYBG9?dchild=1&keywords=blue+yeti+nano&qid=1631752676&sr=8-5&linkCode=li3&tag=tryorthokey06-20&linkId=0ec1981fdb4bf988eae73d7b8c7c759a&language=en_US&ref_=as_li_ss_il">
+              <a href="https://www.amazon.com/Blue-Yeti-Premium-Recording-Streaming/dp/B07QLNYBG9?dchild=1&keywords=blue%2Bnano&qid=1631771296&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNVkyRUs3TkY3SDE0JmVuY3J5cHRlZElkPUEwMjg5NDc3SzE5NFBORk1UOE1KJmVuY3J5cHRlZEFkSWQ9QTAxNjA4NzczOEpUMEVGNUlPTThBJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1&linkCode=li3&tag=gamestreamingsetup-20&linkId=89f12462062e89098e4a6d2e071abbf8&language=en_US&ref_=as_li_ss_il">
                 <img
                   border="0"
-                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QLNYBG9&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QLNYBG9&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US"
                 />
               </a>
               <img
-                src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B07QLNYBG9"
+                src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B07QLNYBG9"
                 width="1"
                 height="1"
                 border="0"
-                alt=""
               />
             </div>
             <div className="col-lg-9">
@@ -139,7 +138,7 @@ export default function BestStreamingSetupTwitch() {
                 smaller, sleeker form factor. Streamers have been using Blue
                 Yeti microphones for years now and for good reason.
               </p>
-              <a href="https://amzn.to/3EwXQR4" className="btn btn-secondary">
+              <a href="https://amzn.to/3Ah4Te4" className="btn btn-secondary">
                 See on Amazon
               </a>
             </div>
@@ -157,14 +156,14 @@ export default function BestStreamingSetupTwitch() {
           </div>
           <div className="row mt-4">
             <div className="col-lg-3">
-              <a href="https://www.amazon.com/Logitech-C920x-Pro-HD-Webcam/dp/B085TFF7M1?dchild=1&keywords=logitech+webcam&qid=1631743217&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=9a4f7415a6688834001f56eada38fcf7&language=en_US&ref_=as_li_ss_il">
+              <a href="https://www.amazon.com/Logitech-C920x-Pro-HD-Webcam/dp/B085TFF7M1?dchild=1&keywords=logitech+c920x&qid=1631771395&sr=8-3&linkCode=li3&tag=gamestreamingsetup-20&linkId=4d736c1ece221ce8942ad1d494295cee&language=en_US&ref_=as_li_ss_il">
                 <img
                   border="0"
-                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B085TFF7M1&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B085TFF7M1&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US"
                 />
               </a>
               <img
-                src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B085TFF7M1"
+                src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B085TFF7M1"
                 width="1"
                 height="1"
                 border="0"
@@ -180,10 +179,10 @@ export default function BestStreamingSetupTwitch() {
                 webcam is affordable and features 1080p 30fps which is perfect
                 streaming while playing games. Though there are higher quality
                 webcams up to 4K resolution like the{" "}
-                <a href="https://amzn.to/3lsB2Jx">Logitech Brio</a>, the c920x
+                <a href="https://amzn.to/2Xp7O6m">Logitech Brio</a>, the c920x
                 is more than enough webcam for streaming purposes.
               </p>
-              <a href="https://amzn.to/3lsC87X" className="btn btn-secondary">
+              <a href="https://amzn.to/3EmYUXz" className="btn btn-secondary">
                 See on Amazon
               </a>
             </div>
@@ -202,14 +201,14 @@ export default function BestStreamingSetupTwitch() {
           </div>
           <div className="row mt-4">
             <div className="col-lg-3">
-              <a href="https://www.amazon.com/Elgato-Game-Capture-HD60-PlayStation/dp/B01DRWCOGA?dchild=1&keywords=elgato&qid=1631755649&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=5c33c4a8830fa3bc9e63b1751fe57f4b&language=en_US&ref_=as_li_ss_il">
+              <a href="https://www.amazon.com/Elgato-Game-Capture-HD60-PlayStation/dp/B01DRWCOGA?dchild=1&keywords=elgato+hd60s&qid=1631771467&sr=8-2&linkCode=li3&tag=gamestreamingsetup-20&linkId=6d40db89652e0bf28695256d691ac05d&language=en_US&ref_=as_li_ss_il">
                 <img
                   border="0"
-                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DRWCOGA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DRWCOGA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US"
                 />
               </a>
               <img
-                src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B01DRWCOGA"
+                src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B01DRWCOGA"
                 width="1"
                 height="1"
                 border="0"
@@ -227,7 +226,7 @@ export default function BestStreamingSetupTwitch() {
                 stream and chat on your computer. Elgato's software is pretty
                 good for what it is but it works perfectly with OBS as well.
               </p>
-              <a href="https://amzn.to/39bxNAg" className="btn btn-secondary">
+              <a href="https://amzn.to/3CiINs4" className="btn btn-secondary">
                 See on Amazon
               </a>
             </div>
@@ -236,22 +235,26 @@ export default function BestStreamingSetupTwitch() {
             <div className="col-lg-12">
               <h2 id="lighting">Lighting</h2>
               <p className="lead">
-                Lighting is something that often gets glossed over when starting to stream video games but is something that is worth investing on the get go. You could have the best webcam in the world but if you're sitting in the dark or your light source is behind you, then you can be barely seen in your feed.  Even cheap webcams with great lighting can be more workable than bad lighting with an awesome webcam.
+                Lighting is something that often gets glossed over when starting
+                to stream video games but is something that is worth investing
+                on the get go. You could have the best webcam in the world but
+                if you're sitting in the dark or your light source is behind
+                you, then you can be barely seen in your feed. Even cheap
+                webcams with great lighting can be more workable than bad
+                lighting with an awesome webcam.
               </p>
             </div>
           </div>
           <div className="row mt-4">
             <div className="col-lg-3">
-              <a
-                href="https://www.amazon.com/Elgato-professional-multi-layer-app-enabled-temperature/dp/B082QHRZFW?dchild=1&keywords=elgato+light&qid=1631758168&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=5b153e240d7de89bc08b4e4ea309cff7&language=en_US&ref_=as_li_ss_il"
-              >
+              <a href="https://www.amazon.com/Elgato-professional-multi-layer-app-enabled-temperature/dp/B082QHRZFW?dchild=1&keywords=elgato+key+light&qid=1631771539&sr=8-3&linkCode=li3&tag=gamestreamingsetup-20&linkId=4559a051b78f4a06e4cd73e7f2f2116c&language=en_US&ref_=as_li_ss_il">
                 <img
                   border="0"
-                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082QHRZFW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082QHRZFW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US"
                 />
               </a>
               <img
-                src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B082QHRZFW"
+                src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B082QHRZFW"
                 width="1"
                 height="1"
                 border="0"
@@ -261,18 +264,32 @@ export default function BestStreamingSetupTwitch() {
             <div className="col-lg-9">
               <h3>Elgato Key Light Air</h3>
               <p>
-                Elgato is on the list here again with their Key Light Air. This is a great customizable light is can be controlled via their app on PC, Mac, iPhone and Android. The brightness and color temperature can be changed to suit your needs and is fully adjustable.  When not in use, it can also be used as a regular desk lamp!
+                Elgato is on the list here again with their Key Light Air. This
+                is a great customizable light is can be controlled via their app
+                on PC, Mac, iPhone and Android. The brightness and color
+                temperature can be changed to suit your needs and is fully
+                adjustable. When not in use, it can also be used as a regular
+                desk lamp!
               </p>
-              <a href="https://amzn.to/39bxNAg" className="btn btn-secondary">
+              <a href="https://amzn.to/3hBLkWD" className="btn btn-secondary">
                 See on Amazon
               </a>
             </div>
           </div>
-        
+
           <div className="row mt-5 align-items-center gss-section">
             <div className="col-lg-8">
               <h2>Just Start Creating!</h2>
-              <p>The best advice we can give you when starting off streaming is to just dive right in, start playing, and BestStreamingSetupTwitch! Our list above will have you covered for a majority of your streaming (at least until you make it big, but by then you can get all the top of the line gear). You can easily buy cheap knockoffs online but these products have been battle-tested with thousands of reviews and plenty of streamers still using these products even today.</p>
+              <p>
+                The best advice we can give you when starting off streaming is
+                to just dive right in, start playing, and
+                BestStreamingSetupTwitch! Our list above will have you covered
+                for a majority of your streaming (at least until you make it
+                big, but by then you can get all the top of the line gear). You
+                can easily buy cheap knockoffs online but these products have
+                been battle-tested with thousands of reviews and plenty of
+                streamers still using these products even today.
+              </p>
             </div>
             <div className="col-lg-4">
               <LazyLoad>
