@@ -30,31 +30,8 @@ export default function Navigation(props) {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ms-auto">
-              <NavDropdown title="Streaming Gear" id="olkb-nav-dropdown">
-                <NavDropdown.Item href="/capture-cards">
-                  Capture Cards
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/webcams">
-                  Webcams
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/webcams">
-                  Microphones
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/webcams">
-                  Lighting
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/webcams">
-                  Headphones
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/webcams">
-                  Keyboards
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/webcams">
-                  Mice
-                </NavDropdown.Item>
-              </NavDropdown>
-              <Nav.Link href="/keyboards">Computer Setups</Nav.Link>
-              <Nav.Link href="/keycaps">Keycaps</Nav.Link>
+              <Nav.Link href="/best-streaming-setup-twitch">Streaming Gear</Nav.Link>
+              <Nav.Link href="https://instagram.com/gamestreamingsetup">Computer Setups</Nav.Link>
             </Nav>
             <Form inline>
               <Button

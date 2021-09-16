@@ -80,12 +80,9 @@ export default function Home() {
                 </p>
                 <Link href="/best-streaming-setup-twitch">
                   <a className="btn btn-lg btn-secondary text-white me-3">
-                    Recommended Streaming Setup
+                    View our Streaming Setup
                   </a>
                 </Link>
-                <a className="btn btn-lg btn-primary text-white me-3">
-                  Read Our Blog
-                </a>
               </div>
             </div>
           </div>
@@ -94,7 +91,7 @@ export default function Home() {
 
       <div id="getstarted">
         <div className="container mt-5">
-          <div className="row">
+          <div className="row mb-5">
             <div className="col-lg-3">
               <div className="card card-bg ele-3">
                 <div className="card-body">
@@ -114,7 +111,7 @@ export default function Home() {
               </div>
             </div>
             <div className="col-lg-9">
-              <div className="gss-section">
+              <div className="gss-section ele-3">
                 <div className="streamlabs-logo">
                   <Image
                     src={streamlabs}
