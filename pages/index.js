@@ -59,7 +59,7 @@ export default function Home() {
         />
       </Head>
 
-      <div className="gss-homepage-bg ele-3">
+      <div className="gss-homepage-bg ele-5">
         <LazyLoad>
           <Navigation bg="transparent"></Navigation>
         </LazyLoad>
@@ -68,7 +68,7 @@ export default function Home() {
           <div className="container-fluid">
             <div className="row align-items-center" style={{ height: "100%" }}>
               <div className="col-lg-12 text-white text-center">
-                <h1>Get the Ultimate Streaming Setup.</h1>
+                <h1>Easily Get Started<br/> Streaming Today.</h1>
                 <p className="lead py-3">
                   See our recommendations and tips on video game streaming on
                   Twitch and more!

@@ -8,12 +8,20 @@ import Footer from "../components/Footer";
 import stock1 from "../public/gss-stock-1.jpg";
 import yeti from "../public/yeti-mic.jpeg";
 
+import stock3 from "../public/gss-stock-3.jpg";
+
 export default function BestStreamingSetupTwitch() {
   return (
     <div>
       <LazyLoad>
-        <div className="gss-page-nav ele-3">
-          <Navigation bg="primary"></Navigation>
+        <div
+          className="gss-page-nav ele-3"
+          style={{
+            background: "url('/gss-stock-3.jpg') center center no-repeat",
+            backgroundSize: "cover",
+          }}
+        >
+          <Navigation bg="transparent"></Navigation>
           <div className="container gss-page-head">
             <div className="row">
               <div className="col-lg-12">
@@ -223,6 +231,58 @@ export default function BestStreamingSetupTwitch() {
               <a href="https://amzn.to/39bxNAg" className="btn btn-secondary">
                 See on Amazon
               </a>
+            </div>
+          </div>
+          <div className="row mt-5">
+            <div className="col-lg-12">
+              <h2 id="video">Lighting</h2>
+              <p className="lead">
+                Lighting is something that often gets glossed over when starting to stream video games but is something that is worth investing on the get go. You could have the best webcam in the world but if you're sitting in the dark or your light source is behind you, then you can be barely seen in your feed.  Even cheap webcams with great lighting can be more workable than bad lighting with an awesome webcam.
+              </p>
+            </div>
+          </div>
+          <div className="row mt-4">
+            <div className="col-lg-3">
+              <a
+                href="https://www.amazon.com/Elgato-professional-multi-layer-app-enabled-temperature/dp/B082QHRZFW?dchild=1&keywords=elgato+light&qid=1631758168&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=5b153e240d7de89bc08b4e4ea309cff7&language=en_US&ref_=as_li_ss_il"
+              >
+                <img
+                  border="0"
+                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082QHRZFW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                />
+              </a>
+              <img
+                src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B082QHRZFW"
+                width="1"
+                height="1"
+                border="0"
+                alt=""
+              />
+            </div>
+            <div className="col-lg-9">
+              <h3>Elgato Key Light Air</h3>
+              <p>
+                Elgato is on the list here again with their Key Light Air. This is a great customizable light is can be controlled via their app on PC, Mac, iPhone and Android. The brightness and color temperature can be changed to suit your needs and is fully adjustable.  When not in use, it can also be used as a regular desk lamp!
+              </p>
+              <a href="https://amzn.to/39bxNAg" className="btn btn-secondary">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        
+          <div className="row mt-5 align-items-center">
+            <div className="col-lg-8">
+              <h2>Just Start Creating!</h2>
+              <p>The best advice we can give you when starting off streaming is to just dive right in, start playing, and BestStreamingSetupTwitch! Our list above will have you covered for a majority of your streaming (at least until you make it big, but by then you can get all the top of the line gear). You can easily buy cheap knockoffs online but these products have been battle-tested with thousands of reviews and plenty of streamers still using these products even today.</p>
+            </div>
+            <div className="col-lg-4">
+              <LazyLoad>
+                <Image
+                  className="img-fluid img-radius"
+                  src={stock3}
+                  alt="Streaming Twitch Online Gear Equipment"
+                />
+              </LazyLoad>
             </div>
           </div>
         </div>

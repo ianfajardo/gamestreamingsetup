@@ -105,12 +105,31 @@ a.article-link {
 }
 
 .gss-page-nav {
+  position: relative;
   color: #ffffff;
   text-align: center;
   background: #220b57;
+  background-size: cover;
   border-radius: 50px;
   overflow: hidden;
   margin: 15px;
+
+  &:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #220b57;
+    opacity: 0.8;
+    content: "";
+    z-index: 2;
+  }
+
+  .container {
+    position: relative;
+    z-index: 5;
+  }
 
   h1 {
     padding: 15px;
