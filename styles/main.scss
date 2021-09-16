@@ -6,7 +6,7 @@
 
 h1 {
   font-weight: 800;
-  font-size: 5rem;
+  font-size: 4.5rem;
 }
 
 h2 {
@@ -22,7 +22,7 @@ h3 {
   font-weight: 800;
   font-size: 20px;
   letter-spacing: 2px;
-  color: #F1A617;
+  color: #f1a617;
 }
 
 a.article-link {
@@ -145,11 +145,17 @@ a.article-link {
   padding-bottom: 60px;
 }
 
+.gss-section {
+  border-radius: 30px;
+  background: #e8e6ee;
+  padding: 3rem;
+}
+
 .gss-jumbo {
   position: relative;
   //background: url("/gss-jumbo.jpg") center center no-repeat;
   background-size: cover;
-  padding: 160px 0;
+  padding: 100px 0 160px;
 
   .row {
     height: 100%;
@@ -159,10 +165,47 @@ a.article-link {
 }
 
 #getstarted {
-  h2 {
-    font-size: 3rem;
-    font-weight: 700;
+  .card-bg {
+    background: url("/gss-stock-5.jpg") center center no-repeat;
+    background-size: cover;
   }
+}
+
+.card-bg {
+  border-radius: 15px;
+  margin-bottom: 15px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  position: relative;
+  overflow: hidden;
+
+  .card-body {
+    position: relative;
+    z-index: 3;
+  }
+
+  h3 {
+    color: #ffffff;
+    font-size: 2rem;
+    text-transform: initial;
+  }
+
+  &:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #212121;
+    opacity: 0.8;
+    content: "";
+    z-index: 2;
+  }
+}
+
+.streamlabs-logo {
+  max-width: 150px !important;
+  margin-bottom: 1rem;
 }
 
 .footer {

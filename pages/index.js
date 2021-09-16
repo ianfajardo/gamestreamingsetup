@@ -6,6 +6,8 @@ import LazyLoad from "react-lazyload";
 import Navigation from "../components/Navigation";
 import Footer from "../components/Footer";
 
+import streamlabs from "../public/streamlabs.png";
+
 export default function Home() {
   return (
     <div>
@@ -68,7 +70,10 @@ export default function Home() {
           <div className="container-fluid">
             <div className="row align-items-center" style={{ height: "100%" }}>
               <div className="col-lg-12 text-white text-center">
-                <h1>Easily Get Started<br/> Streaming Today.</h1>
+                <h1>
+                  Easily Get Started
+                  <br /> Streaming Today.
+                </h1>
                 <p className="lead py-3">
                   See our recommendations and tips on video game streaming on
                   Twitch and more!
@@ -90,19 +95,54 @@ export default function Home() {
       <div id="getstarted">
         <div className="container mt-5">
           <div className="row">
-            <div className="col-lg-12">
-              <h2>Get Started Here.</h2>
-            </div>
-          </div>
-          <div className="row">
             <div className="col-lg-3">
-              <div className="card">
-                <h3>Streaming Guides</h3>
+              <div className="card card-bg ele-3">
+                <div className="card-body">
+                  <div className="row align-items-center">
+                    <div className="col-lg-12">
+                      <h3 className="mb-0 text-white">New to Streaming?</h3>
+                      <p className="text-white mt-2">
+                        Here's the best starter setup availble featuring
+                        products for audio, video, game capture and more.
+                      </p>
+                      <Link href="/best-streaming-setup-twitch">
+                        <a className="btn btn-primary">Learn More</a>
+                      </Link>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-            <div className="col-lg-3"></div>
-            <div className="col-lg-3"></div>
-            <div className="col-lg-3"></div>
+            <div className="col-lg-9">
+              <div className="gss-section">
+                <div className="streamlabs-logo">
+                  <Image
+                    src={streamlabs}
+                    alt="Streamlabs Prime Premium tookit for professional content creators"
+                    className="streamlabs-logo"
+                    responsive
+                  />
+                </div>
+                <h2 className="mb-4">The Best All-in-one live streaming software</h2>
+                <h3>Streamlabs OBS</h3>
+                <p>
+                  For most users, Streamlabs OBS is the ideal streaming software
+                  to use for streaming on Twitch, YouTube and more. It provides
+                  a streamlined user experience geared to live-streaming video
+                  games with the famliarity of OBS (Open Broadcaster Software)
+                  and building on it with widgets, themes, and much more. If
+                  you're a beginner streamer trying to get setup right away or a
+                  veteran trying to add all the widgets to engage with your
+                  viewers, then this is for you.
+                </p>
+                <a
+                  className="btn btn-secondary"
+                  href="https://streamlabs.com/goprime?promo=ianfajardo-d6c6-10"
+                >
+                  Sign Up Today
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>

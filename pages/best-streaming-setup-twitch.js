@@ -25,7 +25,7 @@ export default function BestStreamingSetupTwitch() {
           <div className="container gss-page-head">
             <div className="row">
               <div className="col-lg-12">
-                <h1>Best Game Streaming Setup</h1>
+                <h1>The Best Starter Streaming Setup</h1>
                 <p className="lead">
                   Are you ready to take your first step into video game live
                   streaming on Twitch or YouTube?
@@ -42,7 +42,7 @@ export default function BestStreamingSetupTwitch() {
 
       <div className="gss-page-container">
         <div className="container">
-          <div className="row align-items-center">
+          <div className="row align-items-center gss-section">
             <div className="col-lg-8">
               <h2>Getting Started</h2>
               <p className="lead">
@@ -60,9 +60,8 @@ export default function BestStreamingSetupTwitch() {
                 especially when starting off.
               </p>
               <p>
-                In this article, we'll go over the gear you must-have gear
-                you'll need to stream with your current gaming setup and a
-                couple optional things that you might want to buy down the road.
+                In this article, we'll go over the must-have gear
+                you'll need to stream with your current gaming setup!
               </p>
             </div>
             <div className="col-lg-4">
@@ -270,7 +269,7 @@ export default function BestStreamingSetupTwitch() {
             </div>
           </div>
         
-          <div className="row mt-5 align-items-center">
+          <div className="row mt-5 align-items-center gss-section">
             <div className="col-lg-8">
               <h2>Just Start Creating!</h2>
               <p>The best advice we can give you when starting off streaming is to just dive right in, start playing, and BestStreamingSetupTwitch! Our list above will have you covered for a majority of your streaming (at least until you make it big, but by then you can get all the top of the line gear). You can easily buy cheap knockoffs online but these products have been battle-tested with thousands of reviews and plenty of streamers still using these products even today.</p>
