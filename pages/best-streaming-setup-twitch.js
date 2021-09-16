@@ -190,7 +190,7 @@ export default function BestStreamingSetupTwitch() {
           </div>
           <div className="row mt-5">
             <div className="col-lg-12">
-              <h2 id="video">Game Capture</h2>
+              <h2 id="gamecapture">Game Capture</h2>
               <p className="lead">
                 If you're planning on streaming using a video game console like
                 a PS4 or Nintendo Switch, then you're going to need a capture
@@ -234,7 +234,7 @@ export default function BestStreamingSetupTwitch() {
           </div>
           <div className="row mt-5">
             <div className="col-lg-12">
-              <h2 id="video">Lighting</h2>
+              <h2 id="lighting">Lighting</h2>
               <p className="lead">
                 Lighting is something that often gets glossed over when starting to stream video games but is something that is worth investing on the get go. You could have the best webcam in the world but if you're sitting in the dark or your light source is behind you, then you can be barely seen in your feed.  Even cheap webcams with great lighting can be more workable than bad lighting with an awesome webcam.
               </p>
