@@ -105,10 +105,7 @@ export default function BestStreamingSetupTwitch() {
           </div>
           <div className="row mt-4">
             <div className="col-lg-3">
-              <a
-                href="https://www.amazon.com/Blue-Premium-Recording-Streaming-Blackout-988-000400/dp/B07QLNYBG9?dchild=1&keywords=blue+yeti+nano&qid=1631752676&sr=8-5&linkCode=li3&tag=tryorthokey06-20&linkId=0ec1981fdb4bf988eae73d7b8c7c759a&language=en_US&ref_=as_li_ss_il"
-                target="_blank"
-              >
+              <a href="https://www.amazon.com/Blue-Premium-Recording-Streaming-Blackout-988-000400/dp/B07QLNYBG9?dchild=1&keywords=blue+yeti+nano&qid=1631752676&sr=8-5&linkCode=li3&tag=tryorthokey06-20&linkId=0ec1981fdb4bf988eae73d7b8c7c759a&language=en_US&ref_=as_li_ss_il">
                 <img
                   border="0"
                   src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QLNYBG9&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
@@ -198,10 +195,7 @@ export default function BestStreamingSetupTwitch() {
           </div>
           <div className="row mt-4">
             <div className="col-lg-3">
-              <a
-                href="https://www.amazon.com/Elgato-Game-Capture-HD60-PlayStation/dp/B01DRWCOGA?dchild=1&keywords=elgato&qid=1631755649&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=5c33c4a8830fa3bc9e63b1751fe57f4b&language=en_US&ref_=as_li_ss_il"
-                target="_blank"
-              >
+              <a href="https://www.amazon.com/Elgato-Game-Capture-HD60-PlayStation/dp/B01DRWCOGA?dchild=1&keywords=elgato&qid=1631755649&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=5c33c4a8830fa3bc9e63b1751fe57f4b&language=en_US&ref_=as_li_ss_il">
                 <img
                   border="0"
                   src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DRWCOGA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
@@ -223,7 +217,8 @@ export default function BestStreamingSetupTwitch() {
                 to1080p 60FPS from the console to PC. It also has a lag-free
                 pass-through so you can your game on a seperate tv or monitor
                 like you're playing normally while you keep an eye on your
-                stream and chat on your computer. Elgato's software is pretty good for what it is but it works perfectly with OBS as well.
+                stream and chat on your computer. Elgato's software is pretty
+                good for what it is but it works perfectly with OBS as well.
               </p>
               <a href="https://amzn.to/39bxNAg" className="btn btn-secondary">
                 See on Amazon
