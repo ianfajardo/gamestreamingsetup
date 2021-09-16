@@ -73,8 +73,10 @@ export default function Home() {
                   See our recommendations and tips on video game streaming on
                   Twitch and more!
                 </p>
-                <Link href="/best-streaming-setup-twitch" className="btn btn-lg btn-secondary text-white me-3">
-                  Recommended Streaming Setup
+                <Link href="/best-streaming-setup-twitch">
+                  <a className="btn btn-lg btn-secondary text-white me-3">
+                    Recommended Streaming Setup
+                  </a>
                 </Link>
                 <a className="btn btn-lg btn-primary text-white me-3">
                   Read Our Blog
@@ -105,7 +107,7 @@ export default function Home() {
         </div>
       </div>
 
-      <Footer/>
+      <Footer />
     </div>
   );
 }
