@@ -14,7 +14,7 @@ import { faTwitter, faInstagram } from "@fortawesome/free-brands-svg-icons";
 
 library.add(fab, faTwitter, faInstagram);
 
-export default function Navigation(props) {
+export default function Footer(props) {
   return (
     <div>
       <div className="footer">
@@ -23,7 +23,7 @@ export default function Navigation(props) {
             <div className="col-lg-3">
               <img
                 className="img-fluid"
-                style={{ maxWidth: "220px;" }}
+                style={{ maxWidth: "220px" }}
                 src="/gss-logo-sq-transparent.png"
                 alt="Game Streaming Square | Twitch TV"
               />

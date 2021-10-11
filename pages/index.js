@@ -117,10 +117,11 @@ export default function Home() {
                     src={streamlabs}
                     alt="Streamlabs Prime Premium tookit for professional content creators"
                     className="streamlabs-logo"
-                    responsive
                   />
                 </div>
-                <h2 className="mb-4">The Best All-in-one live streaming software</h2>
+                <h2 className="mb-4">
+                  The Best All-in-one live streaming software
+                </h2>
                 <h3>Streamlabs OBS</h3>
                 <p>
                   For most users, Streamlabs OBS is the ideal streaming software

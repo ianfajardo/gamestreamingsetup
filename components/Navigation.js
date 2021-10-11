@@ -33,9 +33,9 @@ export default function Navigation(props) {
               <Nav.Link href="/best-streaming-setup-twitch">Streaming Gear</Nav.Link>
               <Nav.Link href="https://instagram.com/gamestreamingsetup">Computer Setups</Nav.Link>
             </Nav>
-            <Form inline>
+            <Form>
               <Button
-                href="/posts"
+                href="/blog"
                 className="ml-2 text-white"
                 variant="secondary"
               >
