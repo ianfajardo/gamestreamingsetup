@@ -50,7 +50,7 @@ export default function Links() {
                 </a>
 
                 <a
-                  href="/blog/blue-yeti-nano-sale-amazon"
+                  href="https://amzn.to/3mM1qym"
                   className="btn btn-primary btn-lg btn-block mb-3"
                 >
                   Blue Yeti Nano 20% Off Sale
