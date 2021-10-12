@@ -2,13 +2,24 @@ import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
 import LazyLoad from "react-lazyload";
+import { getSortedPostsData } from "../lib/blogposts";
 
 import Navigation from "../components/Navigation";
 import Footer from "../components/Footer";
+import Date from "../components/date";
 
 import streamlabs from "../public/streamlabs.png";
 
-export default function Home() {
+export async function getStaticProps() {
+  const allPostsData = getSortedPostsData();
+  return {
+    props: {
+      allPostsData,
+    },
+  };
+}
+
+export default function Home({ allPostsData }) {
   return (
     <div>
       <Head>
@@ -141,6 +152,53 @@ export default function Home() {
                 </a>
               </div>
             </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="blog" className="section-container ">
+        <div className="container">
+          <div className="row align-items-center">
+            <div className="col-lg-12">
+              <div className="py-3">
+                <h1>Blog</h1>
+                <p className="lead">
+                  Streaming guides, tips, and gear recommendations.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="row">
+            {allPostsData.map(({ slug, date, title, description, image }) => (
+              <div className="col-lg-6" key={slug}>
+                <div className="mb-5">
+                  <div className="row">
+                    <div className="col-lg-5">
+                      <Link href={`/blog/${slug}`}>
+                        <a className="d-block">
+                          <img
+                            className="img-fluid mb-3"
+                            src={image}
+                            alt="title"
+                          />
+                        </a>
+                      </Link>
+                    </div>
+                    <div className="col-lg-7">
+                      <div className="text-muted ">
+                        <small>
+                          <Date dateString={date} />
+                        </small>
+                      </div>
+                      <Link href={`/blog/${slug}`}>
+                        <a className="blog-title">{title}</a>
+                      </Link>
+                      <div className="lead">{description}</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            ))}
           </div>
         </div>
       </div>
