@@ -50,6 +50,13 @@ export default function Links() {
                 </a>
 
                 <a
+                  href="/blog/top-5-video-game-hard-drives"
+                  className="btn btn-primary btn-lg btn-block mb-3"
+                >
+                  Best Video Game Hard Drives
+                </a>
+
+                <a
                   href="https://amzn.to/3mM1qym"
                   className="btn btn-primary btn-lg btn-block mb-3"
                 >

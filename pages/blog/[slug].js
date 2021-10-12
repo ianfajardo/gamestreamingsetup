@@ -87,7 +87,7 @@ export default function Post({ postData }) {
                 <Link href="/blog">
                   <a className="text-white">Blog</a>
                 </Link>
-                <h1 className="display-4 font-weight-bolder">{postData.title}</h1>
+                <h1 className="font-weight-bolder py-3">{postData.title}</h1>
                 <Date dateString={postData.date} />
               </div>
             </div>

@@ -56,7 +56,7 @@ export default function Posts({ allPostsData }) {
                   <div className="mb-5">
                     <div className="row">
                       <div className="col-lg-5">
-                        <Link href={`/posts/${slug}`}>
+                        <Link href={`/blog/${slug}`}>
                           <a className="d-block">
                             <img
                               className="img-fluid mb-3"
