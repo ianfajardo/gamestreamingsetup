@@ -1,5 +1,6 @@
 ---
 title: "Blue Yeti Nano - Best Streaming Microphone now 20% on Amazon"
+metatitle: "Blue Yeti Nano - Best Streaming Microphone now 20% on Amazon - Streaming microphone streamlabs video capture device"
 description: "Looking for an affordable high-quality microphone for game streaming on Twich? The Blue Yeti Nano is now $79.99 on Amazon."
 date: "2021-10-11"
 image: "/blue-yeti-nano-lifestyle.jpg"

@@ -28,13 +28,13 @@ export default function Home({ allPostsData }) {
         <link rel="icon" href="/favicon.ico" />
 
         <title>
-          Game Streaming Setup | Twitch Streaming Setup How to Start Twitch
+          Game Streaming Setup | HD Game capture Twitch Streaming Setup How to Start Twitch
           streaming Video Game Streaming, Video Game Streaming Setup Twitch
           Streaming Tips
         </title>
         <meta
           name="title"
-          content="Game Streaming Setup | Twitch Streaming Setup How to Start Twitch streaming Video Game Streaming, Video Game Streaming Setup Twitch Streaming Tips"
+          content="Game Streaming Setup | hd game capture use of video capture card view capture card video virtual capture card mirabox hsv323 genki shadowcast kff hdmi video capture card"
         />
         <meta
           name="description"
@@ -45,7 +45,7 @@ export default function Home({ allPostsData }) {
         <meta property="og:url" content="https://gamestreamingsetup.com" />
         <meta
           property="og:title"
-          content="Game Streaming Setup | Twitch Streaming Setup How to Start Twitch streaming Video Game Streaming, Video Game Streaming Setup Twitch Streaming Tips"
+          content="Game Streaming Setup | hd game capture use of video capture card view capture card video virtual capture card mirabox hsv323 genki shadowcast kff hdmi video capture card"
         />
         <meta
           property="og:description"
@@ -60,7 +60,7 @@ export default function Home({ allPostsData }) {
         <meta property="twitter:url" content="https://gamestreamingsetup.com" />
         <meta
           property="twitter:title"
-          content="Game Streaming Setup | Twitch Streaming Setup How to Start Twitch streaming Video Game Streaming, Video Game Streaming Setup Twitch Streaming Tips"
+          content="Game Streaming Setup | hd game capture use of video capture card view capture card video virtual capture card mirabox hsv323 genki shadowcast kff hdmi video capture card"
         />
         <meta
           property="twitter:description"

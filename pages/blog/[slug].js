@@ -25,9 +25,16 @@ export default function Post({ postData }) {
   return (
     <div>
       <Head>
-        <title>{"Game Streaming Setup - " + postData.title}</title>
+        <title>
+          {"Game Streaming Setup - " + postData.metatitle
+            ? postData.metatitle
+            : postData.title}
+        </title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="title" content={"Game Streaming Setup - " + postData.title} />
+        <meta
+          name="title"
+          content={"Game Streaming Setup - " + postData.title}
+        />
         <meta
           name="description"
           content={
@@ -43,7 +50,11 @@ export default function Post({ postData }) {
         />
         <meta
           property="og:title"
-          content={"Try Ortho Keys - " + postData.title}
+          content={
+            "Game Streaming Setup - " + postData.metatitle
+              ? postData.metatitle
+              : postData.title
+          }
         />
         <meta
           property="og:description"
@@ -55,7 +66,11 @@ export default function Post({ postData }) {
         />
         <meta
           property="og:image"
-          content={postData.image ? "https://www.gamestreamingsetup.com/" + postData.image : "https://www.gamestreamingsetup.com/gss-logo-long.png"}
+          content={
+            postData.image
+              ? "https://www.gamestreamingsetup.com/" + postData.image
+              : "https://www.gamestreamingsetup.com/gss-logo-long.png"
+          }
         />
         <meta property="twitter:card" content="summary_large_image" />
         <meta
@@ -64,7 +79,11 @@ export default function Post({ postData }) {
         />
         <meta
           property="twitter:title"
-          content={"Game Streaming Setup - " + postData.title}
+          content={
+            "Game Streaming Setup - " + postData.metatitle
+              ? postData.metatitle
+              : postData.title
+          }
         />
         <meta
           property="twitter:description"
@@ -76,7 +95,11 @@ export default function Post({ postData }) {
         />
         <meta
           property="twitter:image"
-          content={postData.image ? "https://www.gamestreamingsetup.com" + postData.image : "https://www.gamestreamingsetup.com/gss-logo-long.png"}
+          content={
+            postData.image
+              ? "https://www.gamestreamingsetup.com" + postData.image
+              : "https://www.gamestreamingsetup.com/gss-logo-long.png"
+          }
         />
       </Head>
       <Layout>
