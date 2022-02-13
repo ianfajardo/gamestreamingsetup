@@ -160,7 +160,11 @@ a.article-link {
   position: relative;
   //background: url("/gss-jumbo.jpg") center center no-repeat;
   background-size: cover;
-  padding: 100px 0 160px;
+  padding: 50px 0 80px;
+
+  h1 {
+    font-size: 3rem;
+  }
 
   .row {
     height: 100%;
@@ -232,6 +236,13 @@ a.article-link {
     &:hover {
       opacity: 0.75;
     }
+  }
+}
+
+.blog-layout {
+  h2 {
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
   }
 }
 

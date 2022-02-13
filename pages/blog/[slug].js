@@ -23,7 +23,7 @@ export async function getStaticPaths() {
 
 export default function Post({ postData }) {
   return (
-    <div>
+    <div className="blog-layout">
       <Head>
         <title>
           {"Game Streaming Setup - " + postData.metatitle

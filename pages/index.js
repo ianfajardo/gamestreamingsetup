@@ -28,28 +28,30 @@ export default function Home({ allPostsData }) {
         <link rel="icon" href="/favicon.ico" />
 
         <title>
-          Game Streaming Setup | HD Game capture Twitch Streaming Setup How to Start Twitch
-          streaming Video Game Streaming, Video Game Streaming Setup Twitch
-          Streaming Tips
+          Game Streaming Setup | twitch streaming gear HD Game capture Twitch
+          Streaming Setup How to Start Twitch streaming Video Game Streaming,
+          Video Game Streaming Setup Twitch Streaming Tips
         </title>
         <meta
           name="title"
-          content="Game Streaming Setup | hd game capture use of video capture card view capture card video virtual capture card mirabox hsv323 genki shadowcast kff hdmi video capture card"
+          content="Game Streaming Setup | twitch streaming gear HD Game capture Twitch Streaming Setup How to Start Twitch streaming Video Game Streaming, Video Game Streaming Setup Twitch
+          Streaming Tips"
         />
         <meta
           name="description"
-          content="The ultimate guide covering all aspects of how to start video game streaming online today! Read our tips, gear recommendations and Twitch tips."
+          content="We're all about the future of gaming. Video game streaming has taken off in recent years and we want to show you how you can get involved and make a living from your passion."
         />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://gamestreamingsetup.com" />
         <meta
           property="og:title"
-          content="Game Streaming Setup | hd game capture use of video capture card view capture card video virtual capture card mirabox hsv323 genki shadowcast kff hdmi video capture card"
+          content="Game Streaming Setup | twitch streaming gear HD Game capture Twitch Streaming Setup How to Start Twitch streaming Video Game Streaming, Video Game Streaming Setup Twitch
+          Streaming Tips"
         />
         <meta
           property="og:description"
-          content="The ultimate guide covering all aspects of how to start video game streaming online today! Read our tips, gear recommendations and Twitch tips."
+          content="We're all about the future of gaming. Video game streaming has taken off in recent years and we want to show you how you can get involved and make a living from your passion."
         />
         <meta
           property="og:image"
@@ -60,11 +62,12 @@ export default function Home({ allPostsData }) {
         <meta property="twitter:url" content="https://gamestreamingsetup.com" />
         <meta
           property="twitter:title"
-          content="Game Streaming Setup | hd game capture use of video capture card view capture card video virtual capture card mirabox hsv323 genki shadowcast kff hdmi video capture card"
+          content="Game Streaming Setup | twitch streaming gear HD Game capture Twitch Streaming Setup How to Start Twitch streaming Video Game Streaming, Video Game Streaming Setup Twitch
+          Streaming Tips"
         />
         <meta
           property="twitter:description"
-          content="The ultimate guide covering all aspects of how to start video game streaming online today! Read our tips, gear recommendations and Twitch tips."
+          content="We're all about the future of gaming. Video game streaming has taken off in recent years and we want to show you how you can get involved and make a living from your passion."
         />
         <meta
           property="twitter:image"
@@ -80,14 +83,12 @@ export default function Home({ allPostsData }) {
         <div className="gss-jumbo">
           <div className="container-fluid">
             <div className="row align-items-center" style={{ height: "100%" }}>
-              <div className="col-lg-12 text-white text-center">
-                <h1>
-                  Easily Get Started
-                  <br /> Streaming Today.
-                </h1>
+              <div className="offset-lg-3 col-lg-6 text-white text-center">
+                <h1>Start streaming now</h1>
                 <p className="lead py-3">
-                  See our recommendations and tips on video game streaming on
-                  Twitch and more!
+                  We're all about the future of gaming. Video game streaming has
+                  taken off in recent years and we want to show you how you can
+                  get involved and make a living from your passion.
                 </p>
                 <Link href="/best-streaming-setup-twitch">
                   <a className="btn btn-lg btn-secondary text-white me-3">
@@ -108,10 +109,13 @@ export default function Home({ allPostsData }) {
                 <div className="card-body">
                   <div className="row align-items-center">
                     <div className="col-lg-12">
-                      <h3 className="mb-0 text-white">New to Streaming?</h3>
+                      <h3 className="mb-0 text-white">
+                        How to Stream from the Ground Up
+                      </h3>
                       <p className="text-white mt-2">
-                        Here's the best starter setup availble featuring
-                        products for audio, video, game capture and more.
+                        We've got all your needs covered from picking the right
+                        streaming equipment and software to setting up your
+                        stream so it's perfect for watching.
                       </p>
                       <Link href="/best-streaming-setup-twitch">
                         <a className="btn btn-primary">Learn More</a>
