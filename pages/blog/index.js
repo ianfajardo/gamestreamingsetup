@@ -41,7 +41,9 @@ export default function Posts({ allPostsData }) {
               <div className="py-3">
                 <h1>Blog</h1>
                 <p className="lead">
-                  Streaming guides, tips, and gear recommendations.
+                  Looking for amazing ways to add some additional entertainment
+                  to your favorite games? Check out these video game streaming
+                  guides, tips, and gear recommendations!
                 </p>
               </div>
             </div>
