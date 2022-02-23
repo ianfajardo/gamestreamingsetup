@@ -1,5 +1,6 @@
 ---
-title: "Top 5 Video Game Hard Drives"
+title: "Top 5 Video Game Hard Drives - Video Game Streaming storage"
+metatitle: "Top 5 Video Game Hard Drives - Video Game Streaming storage"
 description: "Games download sizes are getting bigger and bigger especially with new seasons and DLCs. Here is our list of the best additional storage solutions for your games. "
 date: "2021-10-12"
 image: "/wd-black.jpg"

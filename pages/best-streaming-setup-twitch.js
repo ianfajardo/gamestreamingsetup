@@ -13,6 +13,14 @@ import stock3 from "../public/gss-stock-3.jpg";
 export default function BestStreamingSetupTwitch() {
   return (
     <div>
+      <Head>
+        <title>Best Streaming Setup Twitch</title>
+        <meta
+          name="description"
+          content="Are you ready to take your first step into video game live
+          streaming on Twitch or YouTube? Here is the best beginner streaming setup for Twitch or YouTube."
+        />
+      </Head>
       <LazyLoad>
         <div
           className="gss-page-nav ele-3"

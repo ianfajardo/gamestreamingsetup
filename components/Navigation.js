@@ -41,6 +41,9 @@ export default function Navigation(props) {
                 <NavDropdown.Item href="/best-streaming-setup-twitch">
                   Best Streaming Twitch Gear
                 </NavDropdown.Item>
+                <NavDropdown.Item href="/capture-cards">
+                  Video Game Capture Cards
+                </NavDropdown.Item>
                 <NavDropdown.Item href="/blog/streaming-gear-for-ps4">
                   Best Streaming Gear for the PS4
                 </NavDropdown.Item>

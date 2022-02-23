@@ -40,7 +40,7 @@ a.article-link {
 
 .navbar {
   position: relative;
-  z-index: 5;
+  z-index: 9;
   font-size: 16px;
   color: #ffffff;
   .navbar-nav .nav-link {
@@ -115,9 +115,7 @@ a.article-link {
   text-align: center;
   background: #220b57;
   background-size: cover;
-  border-radius: 50px;
   overflow: hidden;
-  margin: 15px;
 
   &:after {
     position: absolute;
@@ -143,6 +141,12 @@ a.article-link {
 
 .gss-page-container {
   padding: 3rem 0;
+}
+
+.gss-table-container {
+  padding: 15px;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .gss-page-head {
@@ -265,7 +269,8 @@ a.article-link {
     padding: 40px 15px;
   }
 
-  .gss-homepage-bg, .gss-page-nav {
+  .gss-homepage-bg,
+  .gss-page-nav {
     margin: 0 0 30px 0;
     border-radius: 0;
   }
