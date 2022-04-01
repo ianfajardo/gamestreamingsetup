@@ -11,6 +11,7 @@ import stock1 from "../../public/video-game-capture-card.jpg";
 import yeti from "../../public/yeti-mic.jpeg";
 
 import stock3 from "../../public/gss-stock-3.jpg";
+import SEOHead from "../../components/SEOhead";
 
 var products = [
   {
@@ -99,7 +100,8 @@ var products = [
     brand: "Elgato",
     rating: "4.6",
     date: "January 4, 2020",
-    details: "4K60 Streaming, HEVC/H.264 Encoding, 200 Mbps, Direct to SD Recording option",
+    details:
+      "4K60 Streaming, HEVC/H.264 Encoding, 200 Mbps, Direct to SD Recording option",
     buyLink: "https://amzn.to/3p6IJri",
     link: "",
     amazon1:
@@ -127,59 +129,19 @@ var products = [
   },
 ];
 
+var meta = {
+  title:
+    "Video Game Capture Cards for Live Streaming | Elgato HD60 Mirabox avermedia hdmi capture hdmi vidoe card",
+  description:
+    "Capture cards are a must if you want to start streaming video games. But which one is the best for your needs? Find out here with our list of capture card and reviews. | hdmi capture card hdmi video card",
+  url: "https://gamestreamingsetup.com/capture-cards",
+  image: "https://gamestreamingsetup.com/gss-logo-long.png",
+};
+
 export default function Capturecards() {
   return (
     <div>
-      <Head>
-        <title>
-          Video Game Capture Cards for Live Streaming | Elgato HD60 Mirabox avermedia
-        </title>
-        <meta name="description" content="Game Streaming Setup" />
-        <link rel="icon" href="/favicon.ico" />
-
-        <meta
-          name="description"
-          content="Capture cards are a must if you want to start streaming video
-          games. But which one is the best for your needs? Find out here
-          with our list of capture card and reviews."
-        />
-
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://gamestreamingsetup.com" />
-        <meta
-          property="og:title"
-          content="Video Game Capture Cards for Live Streaming | Twitch Streaming Video
-          Games"
-        />
-        <meta
-          property="og:description"
-          content="Capture cards are a must if you want to start streaming video
-          games. But which one is the best for your needs? Find out here
-          with our list of capture card and reviews."
-        />
-        <meta
-          property="og:image"
-          content="https://gamestreamingsetup.com/gss-logo-long.png"
-        />
-
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://gamestreamingsetup.com" />
-        <meta
-          property="twitter:title"
-          content="Video Game Capture Cards for Live Streaming | Twitch Streaming Video
-          Games"
-        />
-        <meta
-          property="twitter:description"
-          content="Capture cards are a must if you want to start streaming video
-          games. But which one is the best for your needs? Find out here
-          with our list of capture card and reviews."
-        />
-        <meta
-          property="twitter:image"
-          content="https://gamestreamingsetup.com/gss-logo-long.png"
-        />
-      </Head>
+      <SEOHead meta={meta} />
       <LazyLoad>
         <div
           className="gss-page-nav ele-3"
