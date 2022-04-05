@@ -47,7 +47,7 @@ export default function Navigation(props) {
                 <NavDropdown.Item href="/blog/streaming-gear-for-ps4">
                   Best Streaming Gear for the PS4
                 </NavDropdown.Item>
-                <NavDropdown.Item href="/blog/best-capture-card-under-$100">
+                <NavDropdown.Item href="/blog/best-capture-card-under-100">
                   Best Capture Card Under $100
                 </NavDropdown.Item>
               </NavDropdown>

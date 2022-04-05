@@ -31,32 +31,43 @@ export default function Footer(props) {
             <div className="col-lg-3">
               <ul>
                 <li>
-                  <a href="">Recommended Streaming Setup</a>
+                  <a href="/blog/budget-friendly-guide-streaming-twitch-2022">
+                    Twitch Budget-Friendly Guide 2022
+                  </a>
                 </li>
                 <li>
-                  <a href="">Capture Cards</a>
+                  <a href="/blog/live-streaming-career-tips-tricks-youtuber">
+                    Live Streaming as a Career
+                  </a>
                 </li>
                 <li>
-                  <a href="">Webcams</a>
+                  <a href="/best-streaming-setup-twitch">
+                    Best Streaming Twitch Gear
+                  </a>
                 </li>
                 <li>
-                  <a href="">Microphones</a>
+                  <a href="/blog/best-capture-card-under-100">
+                    Best Capture Card Under $100
+                  </a>
                 </li>
               </ul>
             </div>
             <div className="col-lg-3">
               <ul>
                 <li>
-                  <a href="">Lighting</a>
+                  <a href="/blog/top-5-video-game-hard-drives">
+                    Top 5 Video Game Hard Drives - Video Game Streaming storage
+                  </a>
                 </li>
                 <li>
-                  <a href="">Headphones</a>
+                  <a href="/best-streaming-setup-twitch">
+                    Best Streaming Twitch Setup
+                  </a>
                 </li>
                 <li>
-                  <a href="">Keyboards</a>
-                </li>
-                <li>
-                  <a href="">Mice</a>
+                  <a href="https://streamlabs.com/goprime?promo=ianfajardo-d6c6-10">
+                    The Best All-in-One Streaming Software
+                  </a>
                 </li>
               </ul>
             </div>
