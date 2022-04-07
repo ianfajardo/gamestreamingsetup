@@ -11,6 +11,7 @@ export default function Links() {
           Streaming Tips
         </title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="title"
           content="Game Streaming Setup | Twitch Streaming Setup How to Start Twitch

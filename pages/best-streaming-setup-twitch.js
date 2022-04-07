@@ -20,6 +20,7 @@ export default function BestStreamingSetupTwitch() {
           content="Are you ready to take your first step into video game live
           streaming on Twitch or YouTube? Here is the best beginner streaming setup for Twitch or YouTube."
         />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <LazyLoad>
         <div

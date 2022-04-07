@@ -42,6 +42,8 @@ export default function Home({ allPostsData }) {
           content="We're all about the future of gaming. Video game streaming has taken off in recent years and we want to show you how you can get involved and make a living from your passion."
         />
 
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://gamestreamingsetup.com" />
         <meta
