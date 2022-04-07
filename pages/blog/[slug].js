@@ -68,7 +68,7 @@ export default function Post({ postData }) {
           property="og:image"
           content={
             postData.image
-              ? "https://www.gamestreamingsetup.com/" + postData.image
+              ? "https://www.gamestreamingsetup.com" + postData.image
               : "https://www.gamestreamingsetup.com/gss-logo-long.png"
           }
         />
