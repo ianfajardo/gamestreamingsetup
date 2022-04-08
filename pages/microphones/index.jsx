@@ -131,14 +131,14 @@ var products = [
 
 var meta = {
   title:
-    "Video Game Capture Cards for Live Streaming | Elgato HD60 Mirabox avermedia hdmi capture hdmi vidoe card",
+    "The Best Microphones for Video Game Streaming in 2022 | Audio Technica Microphone Razer Microphone",
   description:
-    "Capture cards are a must if you want to start streaming video games. But which one is the best for your needs? Find out here with our list of capture card and reviews. | hdmi capture card hdmi video card",
-  url: "https://gamestreamingsetup.com/capture-cards",
-  image: "https://gamestreamingsetup.com/audio-technica-microphone.jpg",
+    "We rank the best microphones for video game streaming in 2022. Our list includes Blue Snowball, Audio-Technica ATR2020-USB, Samson Meteor Mic, and more.",
+  url: "https://gamestreamingsetup.com/microphones",
+  image: "https://gamestreamingsetup.com/gss-logo-long.png",
 };
 
-export default function Capturecards() {
+export default function Microphones() {
   return (
     <div>
       <SEOHead meta={meta} />
@@ -154,12 +154,11 @@ export default function Capturecards() {
           <div className="container gss-page-head">
             <div className="row">
               <div className="col-lg-12">
-                <h1>Video Game Capture Cards</h1>
+                <h1>The Best Microphones for Video Game Streaming in 2022</h1>
                 <p className="lead">
-                  Capture cards are a must if you want to start streaming video
-                  games. <br />
-                  But which one is the best for your needs? Find out here with
-                  our list of capture card and reviews.
+                  We rank the best microphones for video game streaming in 2022.
+                  Our list includes Blue Snowball, Audio-Technica ATR2020-USB,
+                  Samson Meteor Mic, and more.
                 </p>
                 <a className="btn btn-secondary" href="#list">
                   See the List
