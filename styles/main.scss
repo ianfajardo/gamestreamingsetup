@@ -103,10 +103,25 @@ a.article-link {
     height: 100%;
     width: 100%;
     background: #220b57;
-    opacity: 0.8;
+    background: linear-gradient(
+      90deg,
+      rgba(34, 11, 87, 1) 0%,
+      rgba(34, 11, 87, 1) 35%,
+      rgba(241, 166, 23, 1) 100%
+    );
+    opacity: 0.7;
     content: "";
     z-index: 2;
   }
+}
+
+.gss-gradient {
+  background: linear-gradient(
+    90deg,
+    rgba(34, 11, 87, 1) 0%,
+    rgba(34, 11, 87, 1) 35%,
+    rgba(241, 166, 23, 1) 100%
+  );
 }
 
 .gss-page-nav {
@@ -124,9 +139,19 @@ a.article-link {
     height: 100%;
     width: 100%;
     background: #220b57;
-    opacity: 0.8;
+    background: linear-gradient(
+      90deg,
+      rgba(34, 11, 87, 1) 0%,
+      rgba(34, 11, 87, 1) 35%,
+      rgba(241, 166, 23, 1) 100%
+    );
+    opacity: 0.5;
     content: "";
     z-index: 2;
+  }
+
+  &.half:after {
+    opacity: 0.6;
   }
 
   .container {
@@ -145,8 +170,74 @@ a.article-link {
 
 .gss-table-container {
   padding: 15px;
-  max-width: 1440px;
+  max-width: 1640px;
   margin: 0 auto;
+}
+
+a.gss-homepage-card {
+  color: #ffffff;
+  margin-top: 45px;
+  background: #220b57;
+  background-size: cover;
+  padding: 90px 30px;
+  border-radius: 30px;
+  text-align: center;
+  position: relative;
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 1s;
+
+  &:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  }
+
+  &:hover:after {
+    opacity: 0.6;
+    transition: all 0.5s;
+  }
+
+  span {
+    font-size: 1.5rem;
+    position: relative;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    z-index: 3;
+  }
+
+  &:after {
+    position: absolute;
+    transition: all 0.5s;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #212121;
+    background: linear-gradient(
+      180deg,
+      rgba(34, 11, 87, 1) 0%,
+      rgba(34, 11, 87, 1) 35%,
+      rgba(20, 7, 52, 1) 100%
+    );
+    opacity: 0.4;
+    content: "";
+    z-index: 2;
+  }
+
+  &.capture-cards {
+    background: url("/video-game-capture-card.jpg") center center / cover
+      no-repeat;
+  }
+
+  &.microphones {
+    background: url("/streaming-microphone.jpg") center center / cover no-repeat;
+  }
+
+  &.video {
+    background: url("/webcams.jpg") center center / cover no-repeat;
+  }
 }
 
 .gss-page-head {

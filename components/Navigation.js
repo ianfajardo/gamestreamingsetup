@@ -36,13 +36,19 @@ export default function Navigation(props) {
                 <NavDropdown.Item href="/blog/live-streaming-career-tips-tricks-youtuber">
                   Live Streaming as a Career
                 </NavDropdown.Item>
-              </NavDropdown>
-              <NavDropdown title="Streaming Gear" id="basic-nav-dropdown">
                 <NavDropdown.Item href="/best-streaming-setup-twitch">
                   Best Streaming Twitch Gear
                 </NavDropdown.Item>
+              </NavDropdown>
+              <NavDropdown title="Streaming Gear" id="basic-nav-dropdown">
+                <NavDropdown.Item href="/microphones">
+                  Microphones
+                </NavDropdown.Item>
                 <NavDropdown.Item href="/capture-cards">
-                  Video Game Capture Cards
+                  Capture Cards
+                </NavDropdown.Item>
+                <NavDropdown.Item href="/video">
+                  Webcams and Cameras
                 </NavDropdown.Item>
                 <NavDropdown.Item href="/blog/streaming-gear-for-ps4">
                   Best Streaming Gear for the PS4

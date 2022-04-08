@@ -103,6 +103,42 @@ export default function Home({ allPostsData }) {
         </div>
       </div>
 
+      <div id="streaminggear" className="mt-5"> 
+        <div className="container">
+          <div className="row text-center">
+            <div className="col-lg-12 mt-5">
+              <h3>Recommended Streaming Gear</h3>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-lg-4">
+              <a
+                href="/capture-cards"
+                className="gss-homepage-card capture-cards ele-2"
+              >
+                <span>Capture Cards</span>
+              </a>
+            </div>
+            <div className="col-lg-4">
+              <a
+                href="/microphones"
+                className="gss-homepage-card microphones ele-2"
+              >
+                <span>Microphones</span>
+              </a>
+            </div>
+            <div className="col-lg-4">
+              <a
+                href="/video"
+                className="gss-homepage-card video ele-2"
+              >
+                <span>Video</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div id="getstarted">
         <div className="container mt-5">
           <div className="row mb-5">

@@ -21,7 +21,7 @@ var products = [
     date: "April 16, 2020",
     details: "1080p60 HDR10, 4k6 HDR10, Pass-through, PC & Mac",
     brand: "Elgato",
-    buyLink: "",
+    buyLink: "https://amzn.to/3xbK9FP",
     link: "",
     amazon1:
       "https://www.amazon.com/Elgato-External-Capture-1080p60-ultra-low/dp/B07XB6VNLJ?keywords=elgato+hd60&qid=1645648838&sr=8-2&linkCode=li2&tag=gamestreamingsetup-20&linkId=fbee3f3275521b91968715dbc6cd54d7&language=en_US&ref_=as_li_ss_il",
@@ -135,7 +135,8 @@ var meta = {
   description:
     "Capture cards are a must if you want to start streaming video games. But which one is the best for your needs? Find out here with our list of capture card and reviews. | hdmi capture card hdmi video card",
   url: "https://gamestreamingsetup.com/capture-cards",
-  image: "https://gamestreamingsetup.com/audio-technica-microphone.jpg",
+  image:
+    "https://gamestreamingsetup.com/blog/live-streaming-career-tips-tricks-youtuber",
 };
 
 export default function Capturecards() {
@@ -154,7 +155,7 @@ export default function Capturecards() {
           <div className="container gss-page-head">
             <div className="row">
               <div className="col-lg-12">
-                <h1>Video Game Capture Cards</h1>
+                <h1>Best Video Game Capture Cards in 2022</h1>
                 <p className="lead">
                   Capture cards are a must if you want to start streaming video
                   games. <br />
@@ -189,7 +190,7 @@ export default function Capturecards() {
                 {products.map((product) => (
                   <tr>
                     <td>
-                      {product.name}
+                      <strong>{product.name}</strong>
                       <br />
                       <a href={product.amazon1} target="_blank">
                         <img border="0" src={product.amazon2} />
