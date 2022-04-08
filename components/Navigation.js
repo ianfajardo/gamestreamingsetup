@@ -21,7 +21,7 @@ export default function Navigation(props) {
         <Container>
           <Navbar.Brand className="text-primary font-weight-bolder" href="/">
             <img
-              src="/game-streaming-setup-logo.png"
+              src="/game-streaming-setup-logo-neon.png"
               className="nav-logo py-3"
               alt="Game Streaming Setup Twitch Webcam Microphone USB"
             />
