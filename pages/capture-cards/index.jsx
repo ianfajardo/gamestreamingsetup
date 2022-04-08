@@ -135,8 +135,7 @@ var meta = {
   description:
     "Capture cards are a must if you want to start streaming video games. But which one is the best for your needs? Find out here with our list of capture card and reviews. | hdmi capture card hdmi video card",
   url: "https://gamestreamingsetup.com/capture-cards",
-  image:
-    "https://gamestreamingsetup.com/blog/live-streaming-career-tips-tricks-youtuber",
+  image: "https://gamestreamingsetup.com/gss-stock-3.jpg",
 };
 
 export default function Capturecards() {
