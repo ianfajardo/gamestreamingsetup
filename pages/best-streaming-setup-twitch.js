@@ -22,7 +22,7 @@ const meta = {
 export default function BestStreamingSetupTwitch() {
   return (
     <div>
-      <SEOHead meta={meta} />
+      <SEOhead meta={meta} />
       <Head>
         <title>Best Streaming Setup Twitch</title>
         <meta
