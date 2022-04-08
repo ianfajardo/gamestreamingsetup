@@ -9,10 +9,20 @@ import stock1 from "../public/gss-stock-1.jpg";
 import yeti from "../public/yeti-mic.jpeg";
 
 import stock3 from "../public/gss-stock-3.jpg";
+import SEOhead from "../components/SEOhead";
+
+const meta = {
+  title: "Best Streaming Setup Twitch",
+  description:
+    "Are you ready to take your first step into video game live streaming on Twitch or YouTube? Here is the best beginner streaming setup for Twitch or YouTube.",
+  url: "https://gamestreamingsetup.com/best-streaming-setup-twitch",
+  image: "https://gamestreamingsetup.com/gss-stock-3.jpg",
+};
 
 export default function BestStreamingSetupTwitch() {
   return (
     <div>
+      <SEOHead meta={meta} />
       <Head>
         <title>Best Streaming Setup Twitch</title>
         <meta
