@@ -134,7 +134,7 @@ export default function Video() {
           className="gss-page-nav ele-3 half"
           style={{
             background:
-              "url('/streaming-microphone.jpg') center center / cover no-repeat ",
+              "url('/webcams.jpg') center center / cover no-repeat ",
           }}
         >
           <Navigation bg="transparent"></Navigation>
