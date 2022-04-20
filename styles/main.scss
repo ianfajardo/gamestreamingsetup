@@ -411,6 +411,24 @@ a.gss-homepage-card {
   margin: 15px auto;
 }
 
+.usa-embed-container {
+  position: relative;
+  padding-bottom: 56.25%; /* set the aspect ratio here as (height / width) * 100% */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+
+.usa-embed-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 // Medium devices (tablets, less than 992px)
 @media (max-width: 991.98px) {
   h1 {
