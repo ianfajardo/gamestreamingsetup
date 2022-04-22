@@ -1,6 +1,6 @@
 ---
 title: "A Budget-Friendly Guide to Streaming with Twitch in 2022"
-metatitle: "A Budget-Friendly Guide to Streaming with Twitch | twitch streaming, best budget pc for streaming, streaming with mac"
+metatitle: "A Budget-Friendly Guide to Streaming with Twitch | twitch streaming, best budget pc for streaming, streaming with mac, best cheap streaming pc"
 description: "Streaming on Twitch is more popular than ever, and with the right setup, you can be up and running in just a few hours.  Our guide is perfect for streamers of all levels - from beginner to pro."
 date: "2022-02-13"
 image: "/budget-friendly-guide-streaming-twitch-2022.png"

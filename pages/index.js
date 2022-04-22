@@ -28,14 +28,16 @@ export default function Home({ allPostsData }) {
         <link rel="icon" href="/favicon.ico" />
 
         <title>
-          Game Streaming Setup | twitch streaming gear HD Game capture Twitch
-          Streaming Setup How to Start Twitch streaming Video Game Streaming,
-          Video Game Streaming Setup Twitch Streaming Tips
+          Game Streaming Setup - Cheap streaming PC Razer microphone Streaming
+          PC Prebuilt
         </title>
         <meta
           name="title"
-          content="Game Streaming Setup | twitch streaming gear HD Game capture Twitch Streaming Setup How to Start Twitch streaming Video Game Streaming, Video Game Streaming Setup Twitch
-          Streaming Tips"
+          content="Game Streaming Setup - Cheap streaming PC Razer microphone Streaming PC Prebuilt"
+        />
+        <meta
+          name="keywords"
+          content="Cheap streaming PC, Razer microphone Streaming PC Prebuilt, action camera microphone attachment"
         />
         <meta
           name="description"
@@ -48,8 +50,7 @@ export default function Home({ allPostsData }) {
         <meta property="og:url" content="https://gamestreamingsetup.com" />
         <meta
           property="og:title"
-          content="Game Streaming Setup | twitch streaming gear HD Game capture Twitch Streaming Setup How to Start Twitch streaming Video Game Streaming, Video Game Streaming Setup Twitch
-          Streaming Tips"
+          content="Game Streaming Setup - Cheap streaming PC Razer microphone Streaming PC Prebuilt"
         />
         <meta
           property="og:description"
@@ -64,8 +65,7 @@ export default function Home({ allPostsData }) {
         <meta property="twitter:url" content="https://gamestreamingsetup.com" />
         <meta
           property="twitter:title"
-          content="Game Streaming Setup | twitch streaming gear HD Game capture Twitch Streaming Setup How to Start Twitch streaming Video Game Streaming, Video Game Streaming Setup Twitch
-          Streaming Tips"
+          content="Game Streaming Setup - Cheap streaming PC Razer microphone Streaming PC Prebuilt"
         />
         <meta
           property="twitter:description"
@@ -103,7 +103,7 @@ export default function Home({ allPostsData }) {
         </div>
       </div>
 
-      <div id="streaminggear" className="mt-5"> 
+      <div id="streaminggear" className="mt-5">
         <div className="container">
           <div className="row text-center">
             <div className="col-lg-12 mt-5">
@@ -128,10 +128,7 @@ export default function Home({ allPostsData }) {
               </a>
             </div>
             <div className="col-lg-4">
-              <a
-                href="/video"
-                className="gss-homepage-card video ele-2"
-              >
+              <a href="/video" className="gss-homepage-card video ele-2">
                 <span>Video</span>
               </a>
             </div>
