@@ -104,30 +104,32 @@ export default function Post({ postData }) {
         />
       </Head>
       <Layout>
-        <div className="section-container bg-primary text-white">
-          <div className="container">
-            <div className="row">
-              <div className="col-lg-12">
-                <Link href="/blog">
-                  <a className="text-white">Blog</a>
-                </Link>
-                <h1 className="font-weight-bolder py-3">{postData.title}</h1>
-                <Date dateString={postData.date} />
+        <article>
+          <div className="section-container bg-primary text-white">
+            <div className="container">
+              <div className="row">
+                <div className="col-lg-12">
+                  <Link href="/blog">
+                    <a className="text-white">Blog</a>
+                  </Link>
+                  <h1 className="font-weight-bolder py-3">{postData.title}</h1>
+                  <Date dateString={postData.date} />
+                </div>
               </div>
             </div>
           </div>
-        </div>
-        <div className="section-container">
-          <div className="container">
-            <div className="row">
-              <div className="col-lg-12">
-                <div
-                  dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
-                />
+          <div className="section-container">
+            <div className="container">
+              <div className="row">
+                <div className="col-lg-12">
+                  <div
+                    dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
+                  />
+                </div>
               </div>
             </div>
           </div>
-        </div>
+        </article>
       </Layout>
     </div>
   );
