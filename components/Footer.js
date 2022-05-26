@@ -55,8 +55,8 @@ export default function Footer(props) {
             <div className="col-lg-3">
               <ul>
                 <li>
-                  <a href="/blog/top-5-video-game-hard-drives">
-                    Top 5 Video Game Hard Drives - Video Game Streaming storage
+                  <a href="/mice/corsair">
+                    Corsair Gaming Mice
                   </a>
                 </li>
                 <li>

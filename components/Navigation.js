@@ -44,6 +44,9 @@ export default function Navigation(props) {
                 <NavDropdown.Item href="/microphones">
                   Microphones
                 </NavDropdown.Item>
+                <NavDropdown.Item href="/mice">
+                  Mice
+                </NavDropdown.Item>
                 <NavDropdown.Item href="/capture-cards">
                   Capture Cards
                 </NavDropdown.Item>
