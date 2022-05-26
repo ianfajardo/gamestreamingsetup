@@ -107,10 +107,11 @@ export default function Microphones() {
             <div className="col-lg-8">
               <h2>Factors To Consider Before Buying A Mouse For Gamers</h2>
               <p>
-                The market for gaming peripherals is growing at a fast pace. It
-                is not just limited to keyboards and mice anymore. Gaming
-                headsets, gaming chairs, racing chairs and pads are also being
-                manufactured to cater to the needs of gamers.
+                Gaming mice are a popular accessory for gamers. These
+                peripherals are designed to be portable, ergonomic and offer
+                high performance specifications to suit the needs of gamers.
+                There are many different models available, but which one is the
+                best? There are a couple factors that you need to consider:
               </p>
               <ul>
                 <li>
