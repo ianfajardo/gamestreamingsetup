@@ -51,6 +51,13 @@ export default function Links() {
                 </a>
 
                 <a
+                  href="/mice"
+                  className="btn btn-primary btn-lg btn-block mb-4"
+                >
+                  Best Gaming Mice: The Definitive Guide
+                </a>
+
+                <a
                   href="/microphones"
                   className="btn btn-primary btn-lg btn-block mb-4"
                 >
