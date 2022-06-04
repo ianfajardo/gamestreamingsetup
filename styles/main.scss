@@ -142,7 +142,7 @@ a.article-link {
     }
   }
   small {
-    font-size: .7rem;
+    font-size: 0.7rem;
     padding-bottom: 3px;
   }
 }
@@ -275,7 +275,7 @@ a.gss-homepage-card {
   .btn-sm,
   .btn-group-sm > .btn {
     padding: 0.25rem 0.5rem;
-    font-size: 15px
+    font-size: 15px;
   }
 }
 
@@ -470,6 +470,15 @@ a.gss-homepage-card {
 @media (max-width: 991.98px) {
   h1 {
     font-size: 3rem;
+  }
+
+  .gss-section,
+  .gss-section-inner {
+    height: auto;
+  }
+
+  .gss-section-inner {
+    padding-bottom: 2rem;
   }
 }
 
