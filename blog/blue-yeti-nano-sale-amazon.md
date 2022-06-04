@@ -4,6 +4,8 @@ metatitle: "Blue Yeti Nano - Best Streaming Microphone now 20% on Amazon - Strea
 description: "Looking for an affordable high-quality microphone for game streaming on Twich? The Blue Yeti Nano is now $79.99 on Amazon."
 date: "2021-10-11"
 image: "/blue-yeti-nano-lifestyle.jpg"
+category: "Microphones"
+type: "News"
 ---
 
 ## Get Great Audio for Your Stream

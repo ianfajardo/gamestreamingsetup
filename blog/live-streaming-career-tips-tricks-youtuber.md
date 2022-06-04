@@ -4,6 +4,8 @@ metatitle: "Live Streaming as a Career: Tips and Tricks to Make It as a YouTuber
 description: "With so many people interested in streaming on YouTube, it can be hard to know if it's the right decision. This article will give you the tips you need to know about live streaming on YouTube for professional or personal purposes."
 date: "2022-01-18"
 image: "/live-streaming-career-tips-tricks-youtuber.png"
+category: "Guides"
+type: "Guides"
 ---
 
 ## The Reality of the Live Streaming World

@@ -4,6 +4,8 @@ metatitle: "Best Capture Card Under $100 | hd game capture use of video capture 
 description: "Looking for the best capture card under $100 that you can get now? Here are our recommendations from Amazon."
 date: "2021-11-16"
 image: "/best-capture-card-under-100.png"
+category: "Capture Cards"
+type: "Reviews"
 ---
 
 ## Budget video capture devices

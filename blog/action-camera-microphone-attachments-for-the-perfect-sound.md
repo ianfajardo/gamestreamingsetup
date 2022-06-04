@@ -4,6 +4,8 @@ metatitle: "Action Camera Microphone Attachments for the Perfect Sound | action 
 description: "Get the optimum sound from your action camera or drone: a windshield, a waterproof case, or a mount for your microphone."
 date: "2022-04-20"
 image: "/action-camera-microphone-attachments-for-the-perfect-sound.jpg"
+category: "Microphones"
+type: "Reviews"
 ---
 
 <div class="row">

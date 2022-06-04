@@ -4,6 +4,8 @@ metatitle: "Logitech Brio - Best 4k Streaming Webcam – ultra hd webcam for vid
 description: "The Logitech Brio is the best 4k streaming, recording and conferencing webcam on the market today."
 date: "2022-04-04"
 image: "/logitech-brio-ultra-hd-webcam.png"
+category: "Webcams"
+type: "Reviews"
 ---
 
 <div class="row">

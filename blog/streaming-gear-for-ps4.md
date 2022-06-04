@@ -4,6 +4,8 @@ metatitle: "The Best Streaming Gear for the PS4 | hd game capture use of video c
 description: "The best streaming gear for the PS4. Get your game face on with our top picks, including cameras, capture cards, microphones, and more."
 date: "2022-01-15"
 image: "/best-streaming-gear-ps4.png"
+category: "Video Games"
+type: "Reviews"
 ---
 
 ## The Best Headset for Gaming and Streaming on PS4

@@ -4,6 +4,8 @@ metatitle: "Get a Playstation 5 on Amazon via new invitation option"
 description: "There’s a new invitation option for the Playstation 5 on Amazon. This option is currently out of stock due to high demand, but you can put your email on the waiting list to receive an email when it is back in stock."
 date: "2022-06-02"
 image: "/playstation5.jpg"
+category: "Video Games"
+type: "News"
 ---
 
 <div class="row">

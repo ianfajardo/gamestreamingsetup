@@ -4,6 +4,8 @@ metatitle: "MX Mechanical Mini - The Best Mechanical Keyboard for Most People"
 description: "MX Mechanical Mini is a compact, affordable, and powerful alternative to the typical keyboard. It has high-quality mechanical switches, customizable function keys, and a sleek design."
 date: "2022-06-04"
 image: "/mx-mechanical-mini.jpg"
+category: "Keyboards"
+type: "Reviews"
 ---
 
 <div class="row">

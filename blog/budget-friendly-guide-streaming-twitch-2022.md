@@ -4,6 +4,8 @@ metatitle: "A Budget-Friendly Guide to Streaming with Twitch | twitch streaming,
 description: "Streaming on Twitch is more popular than ever, and with the right setup, you can be up and running in just a few hours.  Our guide is perfect for streamers of all levels - from beginner to pro."
 date: "2022-02-13"
 image: "/budget-friendly-guide-streaming-twitch-2022.png"
+category: "Guides"
+type: "Guides"
 ---
 
 ## The Complete Budget Guide to Streaming on Twitch

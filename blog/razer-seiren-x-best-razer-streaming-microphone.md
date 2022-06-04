@@ -4,6 +4,8 @@ metatitle: "Razer Seiren X: The Best Razer Streaming Microphone"
 description: "Stream like the pros with Razer Seiren X, the best streaming microphone for gamers. Optimized for the latest games and streaming platforms, this mic delivers studio-quality clarity for professional streamers."
 date: "2022-06-04"
 image: "/razer-seiren-x.jpg"
+category: "Microphones"
+type: "Reviews"
 ---
 
 <div class="row">

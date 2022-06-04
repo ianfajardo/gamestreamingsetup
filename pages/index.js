@@ -103,6 +103,115 @@ export default function Home({ allPostsData }) {
         </div>
       </div>
 
+      <div>
+        <div className="container">
+          <div className="row text-center">
+            <div className="col-lg-12 my-5">
+              <h2>Reviews & Guides</h2>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-lg-4">
+              <h3>Guides</h3>
+              <div className="gss-section ele-3">
+                <div className="gss-section-inner">
+                  {allPostsData
+                    .filter(function (el) {
+                      return "Guides" === el.type;
+                    })
+                    .map(({ slug, date, title, description, image }) => (
+                      <div className="gss-link-container bg-light">
+                        <div key={slug} className="gss-guide-link">
+                          <div className="text-muted ">
+                            <small>
+                              <Date dateString={date} />
+                            </small>
+                          </div>
+                          <Link href={`/blog/${slug}`}>
+                            <a className="blog-title">{title}</a>
+                          </Link>
+                        </div>
+                      </div>
+                    ))
+                    .slice(0, 5)}
+                  <a
+                    href="/blog"
+                    className="btn btn-sm btn-secondary mt-3 mb-0"
+                  >
+                    Read More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <h3>Gear Reviews</h3>
+              <div className="gss-section ele-3">
+                <div className="gss-section-inner">
+                  {allPostsData
+                    .filter(function (el) {
+                      return "Reviews" === el.type;
+                    })
+                    .map(({ slug, date, title, description, image }) => (
+                      <div className="gss-link-container bg-light">
+                        <div key={slug} className="gss-guide-link">
+                          <div className="text-muted ">
+                            <small>
+                              <Date dateString={date} />
+                            </small>
+                          </div>
+                          <Link href={`/blog/${slug}`}>
+                            <a className="blog-title">{title}</a>
+                          </Link>
+                        </div>
+                      </div>
+                    ))
+                    .slice(0, 5)}
+
+                  <a
+                    href="/blog"
+                    className="btn btn-sm btn-secondary mt-3 mb-0"
+                  >
+                    Read More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <h3>News</h3>
+              <div className="gss-section ele-3">
+                <div className="gss-section-inner">
+                  {allPostsData
+                    .filter(function (el) {
+                      return "News" === el.type;
+                    })
+                    .map(({ slug, date, title, description, image }) => (
+                      <div className="gss-link-container bg-light">
+                        <div key={slug} className="gss-guide-link">
+                          <div className="text-muted ">
+                            <small>
+                              <Date dateString={date} />
+                            </small>
+                          </div>
+                          <Link href={`/blog/${slug}`}>
+                            <a className="blog-title">{title}</a>
+                          </Link>
+                        </div>
+                      </div>
+                    ))
+                    .slice(0, 5)}
+                  <a
+                    href="/blog"
+                    className="btn btn-sm btn-secondary mt-3 mb-0"
+                  >
+                    Read More
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div id="streaminggear" className="mt-5">
         <div className="container">
           <div className="row text-center">
@@ -161,7 +270,7 @@ export default function Home({ allPostsData }) {
               </div>
             </div>
             <div className="col-lg-9">
-              <div className="gss-section ele-3">
+              <div className="gss-section-inner ele-3">
                 <div className="streamlabs-logo">
                   <Image
                     src={streamlabs}

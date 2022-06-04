@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400;500;700;800&display=swap");
 
 @import "elevation";
 @import "variables";
@@ -124,6 +124,29 @@ a.article-link {
   );
 }
 
+.gss-link-container {
+  //background: #e8e6ee;
+  //height: 100%;
+}
+
+.gss-guide-link {
+  margin-top: 0.75rem;
+  line-height: 1.2;
+  a {
+    font-size: 16px;
+    font-weight: 500;
+    color: #220b57;
+    text-decoration: none;
+    &:hover {
+      color: #f1a617;
+    }
+  }
+  small {
+    font-size: .7rem;
+    padding-bottom: 3px;
+  }
+}
+
 .gss-page-nav {
   position: relative;
   color: #ffffff;
@@ -247,8 +270,22 @@ a.gss-homepage-card {
 
 .gss-section {
   border-radius: 30px;
+  height: 100%;
+
+  .btn-sm,
+  .btn-group-sm > .btn {
+    padding: 0.25rem 0.5rem;
+    font-size: 15px
+  }
+}
+
+.gss-section-inner {
+  border-radius: 30px;
   background: #e8e6ee;
-  padding: 3rem;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 2rem 2rem 0;
+  height: 100%;
 }
 
 .gss-jumbo {
