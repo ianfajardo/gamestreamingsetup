@@ -13,7 +13,7 @@ type: "Reviews"
 
 ## AXIS 16 Airbar Tower: Integrated Desk Fan and LED Light Bar
 
-The AXIS 16 Airbar Tower is a versatile, led, integrated, desk, fan with light bar, and modern gaming device that will help you keep cool and comfortable during those long hours. The tower is built for the modern gamer who wants to stay cool and be in style.
+The AXIS 16 Airbar Tower is a versatile, LED-integrated, desk fan with light bar and modern gaming device that will help you stay cool and comfortable during those long hours. The tower is built for the modern gamer who wants to stay cool and be in style.
 
 <a class="btn btn-secondary" href="https://amzn.to/3zitAZK">Learn More</a>
 
@@ -45,6 +45,7 @@ The AXIS 16 Airbar Tower has 3 speeds and a 360-degree pivoting head for full-ra
 <a href="https://www.amazon.com/Sharper-Image-AirbarUSB-Powered-Full-Range/dp/B081W8CSCB?th=1&linkCode=li3&tag=gamestreamingsetup-20&linkId=ad1a082cbc018bd486fb266b5816f69b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B081W8CSCB&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B081W8CSCB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a class="btn btn-secondary" href="https://amzn.to/3zitAZK">Learn More</a>
+
 </div>
 </div>
 
