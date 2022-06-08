@@ -25,12 +25,13 @@ The MX Mechanical Mini is an ultra-portable, USB-powered mechanical keyboard wit
 </div>
 </div>
 
-## Features of the MX Mechanical Mini Keyboard 
+## Features of the MX Mechanical Mini Keyboard
 
 The MX Mechanical is a mini keyboard that has a compact form factor, but still features all the functionality of larger keyboards. It has low-profile keys for a more comfortable typing experience and long wireless battery life that can pair up to 3 different devices.
 
 **Specifications:**
-- Multiple switch options: Tactile, Linear, and Clicky 
+
+- Multiple switch options: Tactile, Linear, and Clicky
 - Low-profile keys
 - Smart illumination with backlit keys
 - Customizable function keys
@@ -38,20 +39,22 @@ The MX Mechanical is a mini keyboard that has a compact form factor, but still f
 - Wireless up to 15 days on a full charge with Bluetooth or USB receiver
 - USB-C quick charge
 
-
 <a href="https://www.amazon.com/Logitech-Mechanical-Wireless-Illuminated-Bluetooth/dp/B09LJWXD6M?keywords=mx%2Bmechanical%2Bkeyboard&qid=1654357759&sprefix=mx%2Bmechanical%2Caps%2C64&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFSSjJUWUhLUlBVWVAmZW5jcnlwdGVkSWQ9QTAwNDc0NTkyVlQ5RkpZMUpBRjBWJmVuY3J5cHRlZEFkSWQ9QTAxMDM4ODkySTJCUlg0WUlBWDI5JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1&linkCode=li3&tag=gamestreamingsetup-20&linkId=0ed1a4fc8dcbc662ce8efc3fccd5f86f&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09LJWXD6M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B09LJWXD6M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a class="btn btn-secondary" href="https://amzn.to/3ao6ZR4">Learn More</a>
-
 
 ## Why You Should Consider Buying the MX-Mini Mechanical Keyboard
 
 The MX-mini Mechanical Keyboard is a great keyboard for gamers and typists alike. The lack of a number pad, small size, and slim profile are all very appealing to many consumers. The MX-mini has a sleek design that is both aesthetically pleasing and functional.
 
-## Why use a mechanical keyboard? 
+## Why use a mechanical keyboard?
 
 A mechanical keyboard is a keyboard that uses switches to register key presses. These switches provide tactile and audio feedback when they are activated, which provides users with instant physical feedback. They offer a typing experience that is unmatched by traditional rubber-dome and membrane keyboards, which use a single sheet to form the body of the key.
 
 Mechanical keyboards offer a wide array of benefits. They last much longer than traditional keyboards, can be customized to fit your needs and are typically more affordable than their membrane counterparts. With these advantages, it's hard to find a reason not to use one.
 
-<a class="btn btn-secondary" href="https://amzn.to/3ao6ZR4">Learn More</a>
+<a class="btn btn-secondary mb-4" href="https://amzn.to/3ao6ZR4">Learn More</a>
+
+<div class="usa-embed-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/thSbo4-7NV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
