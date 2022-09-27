@@ -37,24 +37,3 @@ When it comes to webcam lighting, we would highly recommend you get a ring light
 <a href="https://www.amazon.com/Adjustable-Upgraded-Ringlight-Photography-Compatible/dp/B086ZXS6K3?crid=2G065JZ3SLQ6Z&keywords=ring+light&qid=1664284977&qu=eyJxc2MiOiI2LjM1IiwicXNhIjoiNi4xNSIsInFzcCI6IjYuMTEifQ%3D%3D&sprefix=ring+light%2Caps%2C86&sr=8-3&linkCode=li3&tag=gamestreamingsetup-20&linkId=e84ff5ebdfc3b57b1d6ef5ddc7333d98&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B086ZXS6K3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B086ZXS6K3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a class="btn btn-primary" href="https://amzn.to/3fodI04">Buy Now</a>
-
-<div class="row my-3">
-<div class="col-lg-6">
-
-### Logitech C920
-
-<a href="https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S?keywords=logitech+c920&link_code=qs&qid=1664284821&qu=eyJxc2MiOiIzLjExIiwicXNhIjoiMi44MCIsInFzcCI6IjIuNzYifQ%3D%3D&sr=8-3&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&linkCode=li3&tag=gamestreamingsetup-20&linkId=85304eb63d32c4fab897376a22c7fc87&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006JH8T3S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B006JH8T3S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a class="btn btn-primary" href="https://amzn.to/3xVJ04O">Buy Now</a>
-
-</div>
-<div class="col-lg-6">
-
-### Ring Light
-
-<a href="https://www.amazon.com/Adjustable-Upgraded-Ringlight-Photography-Compatible/dp/B086ZXS6K3?crid=2G065JZ3SLQ6Z&keywords=ring+light&qid=1664284977&qu=eyJxc2MiOiI2LjM1IiwicXNhIjoiNi4xNSIsInFzcCI6IjYuMTEifQ%3D%3D&sprefix=ring+light%2Caps%2C86&sr=8-3&linkCode=li3&tag=gamestreamingsetup-20&linkId=e84ff5ebdfc3b57b1d6ef5ddc7333d98&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B086ZXS6K3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B086ZXS6K3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a class="btn btn-primary" href="https://amzn.to/3fodI04">Buy Now</a>
-
-</div>
-</div>
