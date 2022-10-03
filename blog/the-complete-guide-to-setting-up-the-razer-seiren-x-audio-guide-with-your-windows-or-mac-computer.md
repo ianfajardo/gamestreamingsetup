@@ -14,15 +14,15 @@ type: Guides
 ## What is a Razer Seiren X?
 <div class="lead">This complete guide will help you get started with your Razer Seiren X. Learn how to set it up, what accessories are needed, and how to get the most out of your new audio companion.</div>
 
-![Razer Seiren X](/razer-seiren-x-guide.jpg "Razer Seiren X")
+[![Razer Seiren X](/razer-seiren-x-guide.jpg "Razer Seiren X")](https://amzn.to/3dZcHeD)
 
-The \[Razer Seiren X] is an all-in-one USB microphone and audio recorder that can capture professional quality audio. It features a multi-pattern microphone with condenser capsules that are able to record in stereo, mono and omnidirectional modes.
+The [Razer Seiren X](https://amzn.to/3dZcHeD) is an all-in-one USB microphone and audio recorder that can capture professional quality audio. It features a multi-pattern microphone with condenser capsules that are able to record in stereo, mono and omnidirectional modes.
 
 This mic also has a built-in headphone amp and zero latency monitoring, so you can hear what you're recording in real time. You can also use the Seiren X to stream live on Facebook, YouTube or Twitch with its built-in streaming software.
 
 The [Razer Seiren X](https://amzn.to/3dZcHeD) is designed for gamers who want to stream their games live or convert their voice recordings into podcasts. In this article, we will show you how to set up the Razer Seiren X with a Windows or Mac computer and record your voice.
 
-<a href=https://amzn.to/3dZcHeD" class="btn btn-primary">Buy Now</a>
+<a href="https://amzn.to/3dZcHeD" class="btn btn-primary">Buy Now</a>
 
 ## How to Set Up the Razer Seiren X with a Windows Computer
 
