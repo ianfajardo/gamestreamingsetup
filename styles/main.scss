@@ -427,6 +427,13 @@ a.gss-homepage-card {
 
 .section-container {
   padding: 4rem 0;
+
+  img {
+    max-width: 100%;
+    width: 100%;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
 }
 
 .gs-link-container {
