@@ -12,6 +12,7 @@ category: Guides
 type: Guides
 ---
 ## What is a Razer Seiren X?
+<div class="lead">This complete guide will help you get started with your Razer Seiren X. Learn how to set it up, what accessories are needed, and how to get the most out of your new audio companion.</div>
 
 ![Razer Seiren X](/razer-seiren-x-guide.jpg "Razer Seiren X")
 
