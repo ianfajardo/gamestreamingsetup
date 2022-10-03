@@ -73,7 +73,7 @@ A pop filter is a device that filters out "p" and "b" sounds that can come acros
 
 <a href="https://www.amazon.com/Foam-Microphone-Windscreen-Customized-Streaming/dp/B07R5DSSM3?crid=36AEFB552YRT2&keywords=Razer+Seiren+X+pop+filter&qid=1664809213&qu=eyJxc2MiOiIzLjQ0IiwicXNhIjoiMi44MiIsInFzcCI6IjIuNTUifQ%3D%3D&sprefix=razer+seiren+x+pop+filter%2Caps%2C85&sr=8-5&linkCode=li3&tag=gamestreamingsetup-20&linkId=44a52b0449c9579bdf1e7a38a58ab5fb&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07R5DSSM3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B07R5DSSM3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a className="btn btn-primary" href="https://amzn.to/3EaTvoG">Buy Now</a>
+<a class="btn btn-secondary" href="https://amzn.to/3EaTvoG">Buy Now</a>
 
 </div>
 <div class="col-lg-4">
@@ -84,7 +84,7 @@ A shock mount is one of the best investments you can make for your streaming mic
 
 <a href="https://www.amazon.com/Seiren-Matching-Compatible-Microphone-YOUSHARES/dp/B08L4DYZVY?crid=2V7C2LMMO0J8E&keywords=Razer+Seiren+X+shock+mount&qid=1664809330&qu=eyJxc2MiOiIzLjcxIiwicXNhIjoiMi42OCIsInFzcCI6IjIuMjAifQ%3D%3D&sprefix=razer+seiren+x+shock+mount%2Caps%2C77&sr=8-6&linkCode=li3&tag=gamestreamingsetup-20&linkId=8989426ec76223c0c4feabdbe6030eeb&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L4DYZVY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B08L4DYZVY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a className="btn btn-primary" href="https://amzn.to/3SSGpR4">Buy Now</a>
+<a class="btn btn-secondary" href="https://amzn.to/3SSGpR4">Buy Now</a>
 
 </div>
 <div class="col-lg-4">
@@ -95,7 +95,7 @@ A desk mounted boom arm will allow you to mount the microphone on a swivel arm s
 
 <a href="https://www.amazon.com/IXTECH-Boom-Arm-Adjustable-Microphone/dp/B097Z467CC?crid=3U4GZCJ3S47TZ&keywords=microphone+desk+boom+arm&qid=1664809438&qu=eyJxc2MiOiI0LjE1IiwicXNhIjoiMy43NiIsInFzcCI6IjMuMDEifQ%3D%3D&sprefix=microphone+desk+boom+arm%2Caps%2C79&sr=8-5&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&linkCode=li3&tag=gamestreamingsetup-20&linkId=08ae2882c2a7499771cd78e0fb1dd861&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B097Z467CC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B097Z467CC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a className="btn btn-primary" href="https://amzn.to/3roS2DF">Buy Now</a>
+<a class="btn btn-secondary" href="https://amzn.to/3roS2DF">Buy Now</a>
 
 </div>
 
