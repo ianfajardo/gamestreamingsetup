@@ -132,6 +132,8 @@ a.article-link {
 .gss-guide-link {
   margin-top: 0.75rem;
   line-height: 1.2;
+  display: flex;
+  align-items: center;
   a {
     font-size: 16px;
     font-weight: 500;
@@ -145,6 +147,14 @@ a.article-link {
     font-size: 0.7rem;
     padding-bottom: 3px;
   }
+}
+
+.gss-link-img {
+  width: 90px;
+  height: 90px;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  margin-right: 1rem;
 }
 
 .gss-page-nav {

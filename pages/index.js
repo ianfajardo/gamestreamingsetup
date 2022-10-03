@@ -122,14 +122,24 @@ export default function Home({ allPostsData }) {
                     .map(({ slug, date, title, description, image }) => (
                       <div className="gss-link-container bg-light">
                         <div key={slug} className="gss-guide-link">
-                          <div className="text-muted ">
-                            <small>
-                              <Date dateString={date} />
-                            </small>
+                          <div
+                            className="gss-link-img"
+                            style={{
+                              background:
+                                "url('" + image + "') center center no-repeat",
+                              backgroundSize: "cover",
+                            }}
+                          ></div>
+                          <div>
+                            <div className="text-muted ">
+                              <small>
+                                <Date dateString={date} />
+                              </small>
+                            </div>
+                            <Link href={`/blog/${slug}`}>
+                              <a className="blog-title">{title}</a>
+                            </Link>
                           </div>
-                          <Link href={`/blog/${slug}`}>
-                            <a className="blog-title">{title}</a>
-                          </Link>
                         </div>
                       </div>
                     ))
@@ -154,14 +164,24 @@ export default function Home({ allPostsData }) {
                     .map(({ slug, date, title, description, image }) => (
                       <div className="gss-link-container bg-light">
                         <div key={slug} className="gss-guide-link">
-                          <div className="text-muted ">
-                            <small>
-                              <Date dateString={date} />
-                            </small>
+                          <div
+                            className="gss-link-img"
+                            style={{
+                              background:
+                                "url('" + image + "') center center no-repeat",
+                              backgroundSize: "cover",
+                            }}
+                          ></div>
+                          <div>
+                            <div className="text-muted ">
+                              <small>
+                                <Date dateString={date} />
+                              </small>
+                            </div>
+                            <Link href={`/blog/${slug}`}>
+                              <a className="blog-title">{title}</a>
+                            </Link>
                           </div>
-                          <Link href={`/blog/${slug}`}>
-                            <a className="blog-title">{title}</a>
-                          </Link>
                         </div>
                       </div>
                     ))
@@ -187,14 +207,25 @@ export default function Home({ allPostsData }) {
                     .map(({ slug, date, title, description, image }) => (
                       <div className="gss-link-container bg-light">
                         <div key={slug} className="gss-guide-link">
-                          <div className="text-muted ">
-                            <small>
-                              <Date dateString={date} />
-                            </small>
+                          <div
+                            className="gss-link-img"
+                            style={{
+                              background:
+                                "url('" + image + "') center center no-repeat",
+                              backgroundSize: "cover",
+                            }}
+                          ></div>
+
+                          <div>
+                            <div className="text-muted ">
+                              <small>
+                                <Date dateString={date} />
+                              </small>
+                            </div>
+                            <Link href={`/blog/${slug}`}>
+                              <a className="blog-title">{title}</a>
+                            </Link>
                           </div>
-                          <Link href={`/blog/${slug}`}>
-                            <a className="blog-title">{title}</a>
-                          </Link>
                         </div>
                       </div>
                     ))
