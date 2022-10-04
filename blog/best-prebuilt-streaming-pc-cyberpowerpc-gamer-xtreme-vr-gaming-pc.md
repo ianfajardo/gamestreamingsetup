@@ -44,3 +44,9 @@ The case itself, even without any modifications from the user, has enough vents 
 The [CyberpowerPC Gamer Xtreme VR  Gaming PC](https://amzn.to/3CvooTz) is often on sale for around $800-$900 which is a steal with the combination of parts. At the time of writing, it is on sale for $879 down from $1014. We definitely recommend picking it up on sale if possible but even with the MSRP price tag it's a great deal with the combination of parts and the time you'll save building your own if you're trying to get into gaming and streaming right away.
 
 <a href="https://amzn.to/3CvooTz" class="btn btn-primary">Buy Now</a>
+
+---
+
+## Video Review
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fhmWrMsuKBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
