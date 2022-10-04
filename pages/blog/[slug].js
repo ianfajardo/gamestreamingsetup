@@ -1,14 +1,20 @@
 import Layout from "../../components/layout";
 import Link from "next/link";
-import { getAllPostIds, getPostData } from "../../lib/blogposts";
+import {
+  getAllPostIds,
+  getPostData,
+  getSortedPostsData,
+} from "../../lib/blogposts";
 import Date from "../../components/date";
 import Head from "next/head";
 
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.slug);
+  const allPostsData = getSortedPostsData();
   return {
     props: {
       postData,
+      allPostsData,
     },
   };
 }
@@ -21,7 +27,7 @@ export async function getStaticPaths() {
   };
 }
 
-export default function Post({ postData }) {
+export default function Post({ postData, allPostsData }) {
   return (
     <div className="blog-layout">
       <Head>
@@ -130,6 +136,48 @@ export default function Post({ postData }) {
             </div>
           </div>
         </article>
+
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-12">
+              <hr />
+              <h3 className="py-5">Recent Posts</h3>
+            </div>
+          </div>
+          <div className="row">
+            {allPostsData
+              .map(({ slug, date, title, description, image }) => (
+                <div className="col-lg-3" key={slug}>
+                  <div className="mb-5">
+                    <div className="row">
+                      <div className="col-lg-12">
+                        <Link href={`/blog/${slug}`}>
+                          <a className="d-block">
+                            <img
+                              className="img-fluid mb-3"
+                              src={image}
+                              alt="title"
+                            />
+                          </a>
+                        </Link>
+                      </div>
+                      <div className="col-lg-12">
+                        <div className="text-muted ">
+                          <small>
+                            <Date dateString={date} />
+                          </small>
+                        </div>
+                        <Link href={`/blog/${slug}`}>
+                          <a className="blog-title">{title}</a>
+                        </Link>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              ))
+              .slice(0, 4)}
+          </div>
+        </div>
       </Layout>
     </div>
   );
