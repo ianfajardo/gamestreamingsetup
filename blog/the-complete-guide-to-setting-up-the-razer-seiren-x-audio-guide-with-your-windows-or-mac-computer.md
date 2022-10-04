@@ -7,7 +7,7 @@ description: This complete guide will help you get started with your Razer
   Seiren X. Learn how to set it up, what accessories are needed, and how to get
   the most out of your new audio companion.
 date: 2022-10-03T14:10:21.532Z
-image: /razer-seiren-x-guide.jpg
+image: /seiren-x-setup.png
 category: Guides
 type: Guides
 ---
