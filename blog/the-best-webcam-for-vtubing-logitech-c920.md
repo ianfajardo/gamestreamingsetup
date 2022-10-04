@@ -5,7 +5,7 @@ description: The Logitech C920 is the best webcam to start your vtubing career.
   With stunning HD quality, and a plug and play setup, this webcam is a breeze
   to set up.
 date: 2022-09-27T12:55:38.729Z
-image: /best-webcam-vtuber.jpg
+image: /vtubing-webcam.png
 category: Guides
 type: Guides
 ---
