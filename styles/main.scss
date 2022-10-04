@@ -435,13 +435,16 @@ a.blog-title {
 #blog {
   a.blog-title {
     display: block;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     text-decoration: none;
     font-weight: 600;
     color: #220b57;
     line-height: 1.2;
     margin-bottom: 1rem;
     margin-top: 0.5rem;
+  }
+  .lead {
+    font-size: 1rem;
   }
 }
 
