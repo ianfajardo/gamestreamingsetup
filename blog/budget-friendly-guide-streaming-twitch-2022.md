@@ -1,18 +1,21 @@
 ---
-title: "A Budget-Friendly Guide to Streaming with Twitch in 2022"
-metatitle: "A Budget-Friendly Guide to Streaming with Twitch | twitch streaming, best budget pc for streaming, streaming with mac, best cheap streaming pc"
-description: "Streaming on Twitch is more popular than ever, and with the right setup, you can be up and running in just a few hours.  Our guide is perfect for streamers of all levels - from beginner to pro."
-date: "2022-02-13"
-image: "/budget-friendly-guide-streaming-twitch-2022.png"
-category: "Guides"
-type: "Guides"
+title: A Budget-Friendly Guide to Streaming with Twitch in 2022
+metatitle: A Budget-Friendly Guide to Streaming with Twitch | twitch streaming,
+  best budget pc for streaming, streaming with mac, best cheap streaming pc |
+  cheapest streaming setup
+description: Streaming on Twitch is more popular than ever, and with the right
+  setup, you can be up and running in just a few hours.  Our guide is perfect
+  for streamers of all levels - from beginner to pro.
+date: 2022-02-13
+image: /budget-friendly-guide-streaming-twitch-2022.png
+category: Guides
+type: Guides
 ---
-
 ## The Complete Budget Guide to Streaming on Twitch
 
 Streaming on Twitch is a great way to reach your audience, but if you're on a budget, it can be really expensive. Luckily there are ways to stream for free or very cheaply. Streaming video games online is a popular hobby that has grown into a full-time profession for some. With streaming, gamers can show off their skills and connect with other gamers from around the world. However, not everyone can afford to build a top-of-the-line gaming rig or purchase the latest console. This guide will show how to stream on Twitch with both a budget PC or console so you don't miss out on the fun!
 
-## Our Budget Streaming Tech Picks
+## Our Budget Streaming Tech Picks: Cheapest Streaming Setup
 
 Streaming on Twitch is a great way to reach your audience, but if you're on a budget, it can be really expensive. Luckily there are ways to stream for free or very cheaply. Streaming video games online is a popular hobby that has grown into a full-time profession for some. 
 
