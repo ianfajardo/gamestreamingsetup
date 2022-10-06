@@ -16,7 +16,7 @@ MSI is a world-renowned manufacturer of high-quality gaming computers. MSI's exc
 
 ## Specs of the MSI Desktop Computer: Aegis RS Gaming PC
 
-![](/aegisr-1-1024x1024.png)
+[![](/aegisr-1-1024x1024.png)](https://amzn.to/3CCtNZi)
 
 The Aegis RS MSI desktop computer is a beast with an impressive spec sheet. If you're looking for a desktop computer that can handle anything you throw at it, the Aegis RS MSI may be the one. It has options from a core i5 to a i9, NVIDIA GeForce RTX 30 series graphics, 16GB to 32GB of RAM, generous case fan cooling, liquid cooling, and much more.
 
