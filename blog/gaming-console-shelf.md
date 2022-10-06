@@ -1,11 +1,14 @@
 ---
-title: "Best Gaming Console Shelves for Gamers"
-metatitle: "Best Gaming Console Shelves for Gamers | gaming console shelf"
-description: "Video game streaming is on the rise and cord cutters are leading the way, but where do you put your console when you're playing in front of a camera? We've rounded up some of the best gaming console shelves to help you organize your setup"
-date: "2022-06-13"
-image: "/gaming-shelf.jpg"
-category: "Technology"
-type: "Reviews"
+title: Best Gaming Console Shelves for Gamers
+metatitle: Best Gaming Console Shelves for Gamers | gaming console shelf
+description: Video game streaming is on the rise and cord cutters are leading
+  the way, but where do you put your console when you're playing in front of a
+  camera? We've rounded up some of the best gaming console shelves to help you
+  organize your setup
+date: 2022-06-13
+image: /gaming-shelf.jpg
+category: Technology
+type: Reviews
 ---
 
 <div class="row">
@@ -13,7 +16,11 @@ type: "Reviews"
 
 ## Best Gaming Console Shelves for Gamers
 
-Video game streaming is on the rise and cord cutters are leading the way, but where do you put your console when you're playing in front of a camera? We've rounded up some of the best gaming console shelves to help you organize your setup.
+Video game streaming is on the rise and cord cutters are leading the way, but where do you put your console when you're playing in front of a camera? 
+
+Video game shelves are the perfect way to display and organize your video game collection. They come in a variety of styles, colors, and sizes so you can find one that works best for you. Furthermore, video game shelves make it easier to keep track of your games and make sure you're not missing any titles from your collection.
+
+We've rounded up some of the best gaming console shelves to help you organize your setup.
 
 </div>
 <div class="col-lg-4">
