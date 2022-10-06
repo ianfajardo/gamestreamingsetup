@@ -37,7 +37,7 @@ The GoPro microphone audio is not ideal and for quality audio you'll want to get
 
 <a href="https://www.amazon.com/Rode-smartLav-Lavalier-Microphone-Smartphones/dp/B00EO4A7L0?crid=229T68ZX90ZCD&keywords=rode%2Blav%2Bplus&qid=1665085115&qu=eyJxc2MiOiIxLjA3IiwicXNhIjoiMC44MSIsInFzcCI6IjAuNjUifQ%3D%3D&sprefix=rode%2Blav%2Bplu%2Caps%2C69&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1&linkCode=li3&tag=gamestreamingsetup-20&linkId=7f901721da2e7ed678fd582108c875d8&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EO4A7L0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B00EO4A7L0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://amzn.to/3eafwJY">Learn More</a>
+<a class="btn btn-secondary" href="https://amzn.to/3eafwJY">Learn More</a>
 
 
 ##  IRL Livestreaming Accessories
