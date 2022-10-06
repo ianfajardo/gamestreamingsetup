@@ -78,3 +78,15 @@ If you're using your phone, we highly recommended getting a clip-on lens to incr
 
 </div>
 </div>
+
+## Ideas for Streaming IRL
+
+Now that you have your setup, here are some ideas starting your livestream.
+- If you're an artist, stream your creative process. People love to see how a piece of art gets created
+- Open up about your personal story and journey 
+- Travel vlogging to stream about your adventures
+- Outdoor activities and action sports like hiking or mountain biking
+
+- Commentary on current events, celebrity news, and social issues
+
+Now get out there and create some content!
