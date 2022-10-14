@@ -1,11 +1,14 @@
 ---
-title: "MX Mechanical Mini - The Best Mechanical Keyboard for Most People"
-metatitle: "MX Mechanical Mini - The Best Mechanical Keyboard for Most People"
-description: "MX Mechanical Mini is a compact, affordable, and powerful alternative to the typical keyboard. It has high-quality mechanical switches, customizable function keys, and a sleek design."
-date: "2022-06-04"
-image: "/mx-mechanical-mini.jpg"
-category: "Keyboards"
-type: "Reviews"
+title: MX Mechanical Mini - The Best Mini Mechanical Keyboard for Most People
+metatitle: MX Mechanical Mini - The Best Mini Mechanical Keyboard for Most People
+description: MX Mechanical Mini is a compact, affordable, and powerful
+  alternative to the typical keyboard. It has high-quality mechanical switches,
+  customizable function keys, and a sleek design. It is one of the best mini
+  mechanical keyboard out there.
+date: 2022-06-04
+image: /mx-mechanical-mini.jpg
+category: Keyboards
+type: Reviews
 ---
 
 <div class="row">
@@ -47,7 +50,7 @@ The MX Mechanical is a mini keyboard that has a compact form factor, but still f
 
 The MX-mini Mechanical Keyboard is a great keyboard for gamers and typists alike. The lack of a number pad, small size, and slim profile are all very appealing to many consumers. The MX-mini has a sleek design that is both aesthetically pleasing and functional.
 
-## Why use a mechanical keyboard?
+## Why you should use a mechanical keyboard and why it is one of the best mini mechanical keyboard out there!
 
 A mechanical keyboard is a keyboard that uses switches to register key presses. These switches provide tactile and audio feedback when they are activated, which provides users with instant physical feedback. They offer a typing experience that is unmatched by traditional rubber-dome and membrane keyboards, which use a single sheet to form the body of the key.
 
