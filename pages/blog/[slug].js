@@ -115,7 +115,7 @@ export default function Post({ postData, allPostsData }) {
             <div className="container">
               <div className="row">
                 <div className="col-lg-12">
-                  <Link href="/blog">
+                  <Link legacyBehavior href="/blog">
                     <a className="text-white">Blog</a>
                   </Link>
                   <h1 className="font-weight-bolder py-3">{postData.title}</h1>
@@ -158,7 +158,7 @@ export default function Post({ postData, allPostsData }) {
                                   <Date dateString={date} />
                                 </small>
                               </div>
-                              <Link href={`/blog/${slug}`}>
+                              <Link legacyBehavior href={`/blog/${slug}`}>
                                 <a className="blog-title">{title}</a>
                               </Link>
                             </div>
@@ -191,7 +191,7 @@ export default function Post({ postData, allPostsData }) {
                                   <Date dateString={date} />
                                 </small>
                               </div>
-                              <Link href={`/blog/${slug}`}>
+                              <Link legacyBehavior href={`/blog/${slug}`}>
                                 <a className="blog-title">{title}</a>
                               </Link>
                             </div>
@@ -224,7 +224,7 @@ export default function Post({ postData, allPostsData }) {
                                   <Date dateString={date} />
                                 </small>
                               </div>
-                              <Link href={`/blog/${slug}`}>
+                              <Link legacyBehavior href={`/blog/${slug}`}>
                                 <a className="blog-title">{title}</a>
                               </Link>
                             </div>
@@ -254,7 +254,7 @@ export default function Post({ postData, allPostsData }) {
                   <div className="mb-5">
                     <div className="row">
                       <div className="col-lg-12">
-                        <Link href={`/blog/${slug}`}>
+                        <Link legacyBehavior href={`/blog/${slug}`}>
                           <a className="d-block">
                             <img
                               className="img-fluid mb-3"
@@ -270,7 +270,7 @@ export default function Post({ postData, allPostsData }) {
                             <Date dateString={date} />
                           </small>
                         </div>
-                        <Link href={`/blog/${slug}`}>
+                        <Link legacyBehavior href={`/blog/${slug}`}>
                           <a className="blog-title">{title}</a>
                         </Link>
                       </div>

@@ -92,7 +92,7 @@ export default function Home({ allPostsData }) {
                   taken off in recent years and we want to show you how you can
                   get involved and make a living from your passion.
                 </p>
-                <Link href="/best-streaming-setup-twitch">
+                <Link legacyBehavior href="/best-streaming-setup-twitch">
                   <a className="btn btn-lg btn-secondary text-white me-3">
                     View our Streaming Setup
                   </a>
@@ -136,7 +136,7 @@ export default function Home({ allPostsData }) {
                                 <Date dateString={date} />
                               </small>
                             </div>
-                            <Link href={`/blog/${slug}`}>
+                            <Link legacyBehavior href={`/blog/${slug}`}>
                               <a className="blog-title">{title}</a>
                             </Link>
                           </div>
@@ -178,7 +178,7 @@ export default function Home({ allPostsData }) {
                                 <Date dateString={date} />
                               </small>
                             </div>
-                            <Link href={`/blog/${slug}`}>
+                            <Link legacyBehavior href={`/blog/${slug}`}>
                               <a className="blog-title">{title}</a>
                             </Link>
                           </div>
@@ -222,7 +222,7 @@ export default function Home({ allPostsData }) {
                                 <Date dateString={date} />
                               </small>
                             </div>
-                            <Link href={`/blog/${slug}`}>
+                            <Link legacyBehavior href={`/blog/${slug}`}>
                               <a className="blog-title">{title}</a>
                             </Link>
                           </div>
@@ -292,7 +292,7 @@ export default function Home({ allPostsData }) {
                         streaming equipment and software to setting up your
                         stream so it's perfect for watching.
                       </p>
-                      <Link href="/best-streaming-setup-twitch">
+                      <Link legacyBehavior href="/best-streaming-setup-twitch">
                         <a className="btn btn-primary">Learn More</a>
                       </Link>
                     </div>
@@ -355,7 +355,7 @@ export default function Home({ allPostsData }) {
                 <div className="mb-5">
                   <div className="row">
                     <div className="col-lg-5">
-                      <Link href={`/blog/${slug}`}>
+                      <Link legacyBehavior href={`/blog/${slug}`}>
                         <a className="d-block">
                           <img
                             className="img-fluid mb-3"
@@ -371,7 +371,7 @@ export default function Home({ allPostsData }) {
                           <Date dateString={date} />
                         </small>
                       </div>
-                      <Link href={`/blog/${slug}`}>
+                      <Link legacyBehavior href={`/blog/${slug}`}>
                         <a className="blog-title">{title}</a>
                       </Link>
                       <div className="lead">{description}</div>
