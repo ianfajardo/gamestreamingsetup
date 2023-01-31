@@ -36,22 +36,22 @@ In conclusion, when choosing a video game streaming platform, it's essential to 
 
 Are you ready to take your video game streaming to the next level? Whether you're a seasoned streamer or just getting started, having the right equipment can make a big difference in the quality of your content and your overall streaming experience. That's why we've put together this list of the top 3 products on Amazon for video game streaming. From webcams to microphones to control pads, these products will help you maximize your streaming capabilities and bring your content to life. So, whether you're looking to upgrade your existing setup or start streaming for the first time, these products are a great place to start.
 
-<div class="row">
-<div class="col">
+<div class="row mb-5">
+<div class="col-md">
 <a href="https://www.amazon.com/Logitech-C922x-Pro-Stream-Webcam/dp/B01LXCDPPK?keywords=**Logitech%2BC922x%2BPro%2BStream%2BWebcam**&link_code=qs&qid=1675181842&sr=8-3&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1&linkCode=li3&tag=gamestreamingsetup-20&linkId=0f52669a069ced40525f9b475332e275&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LXCDPPK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B01LXCDPPK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Logitech C922x Pro Stream Webcam**: This webcam offers 1080p video recording, automatic low light correction, and a 78-degree field of view, making it a great choice for streamers looking to improve the quality of their video content.
 
 <a href="https://amzn.to/3Rjew5c" class="btn btn-secondary">Learn More</a>
 </div>
-<div class="col">
+<div class="col-md">
 <a href="https://www.amazon.com/Microphone-Recording-Streaming-Podcasting-Adjustable/dp/B00N1YPXW2?crid=VSX5YDDQ93MX&keywords=Blue%2BYeti%2BUSB%2BMicrophone&qid=1675181899&sprefix=blue%2Byeti%2Busb%2Bmicrophone%2Caps%2C233&sr=8-5&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1&linkCode=li3&tag=gamestreamingsetup-20&linkId=25220eeea16e92b5d58abffc28a9186a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00N1YPXW2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B00N1YPXW2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Blue Yeti USB Microphone**: The Blue Yeti is a popular choice for streamers, offering four different polar patterns, including cardioid, bidirectional, omnidirectional, and stereo. It also features plug-and-play USB connectivity and an included desktop stand.
 
 <a href="https://amzn.to/3kYjHvq" class="btn btn-secondary">Learn More</a>
 </div>
-<div class="col">
+<div class="col-md">
 <a href="https://www.amazon.com/Elgato-Stream-Deck-MK-2-Controller/dp/B09738CV2G?crid=17O7ZVLSN0FEG&keywords=Elgato+Stream+Deck&qid=1675182053&sprefix=elgato+stream+deck%2Caps%2C350&sr=8-4&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&linkCode=li3&tag=gamestreamingsetup-20&linkId=d1c5d804aca8016cf5a6823dabda54a3&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09738CV2G&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B09738CV2G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Elgato Stream Deck**: The Elgato Stream Deck is a 15-key control pad that allows you to quickly switch between scenes, launch apps, and control audio levels in real-time. This product can make it easier to manage your stream and keep your focus on the game.
