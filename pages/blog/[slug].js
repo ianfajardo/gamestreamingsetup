@@ -127,10 +127,113 @@ export default function Post({ postData, allPostsData }) {
           <div className="section-container">
             <div className="container">
               <div className="row">
-                <div className="col-lg-12">
+                <div className="col-lg-9">
                   <div
                     dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
                   />
+                </div>
+                <div className="col-lg-3">
+                  <div className="px-2">
+                    <h4 className="mb-3">Guides</h4>
+                    {allPostsData
+                      .filter(function (el) {
+                        return "Guides" === el.type;
+                      })
+                      .map(({ slug, date, title, description, image }) => (
+                        <div>
+                          <div key={slug} className="mt-2 mb-3">
+                            <div
+                              className="gss-link-img"
+                              style={{
+                                background:
+                                  "url('" +
+                                  image +
+                                  "') center center no-repeat",
+                                backgroundSize: "cover",
+                              }}
+                            ></div>
+                            <div>
+                              <div className="text-muted ">
+                                <small>
+                                  <Date dateString={date} />
+                                </small>
+                              </div>
+                              <Link href={`/blog/${slug}`}>
+                                <a className="blog-title">{title}</a>
+                              </Link>
+                            </div>
+                          </div>
+                        </div>
+                      ))
+                      .slice(0, 2)}
+
+                    <h4 className="mb-3">Gear Reviews</h4>
+                    {allPostsData
+                      .filter(function (el) {
+                        return "Reviews" === el.type;
+                      })
+                      .map(({ slug, date, title, description, image }) => (
+                        <div>
+                          <div key={slug} className="mt-2 mb-3">
+                            <div
+                              className="gss-link-img"
+                              style={{
+                                background:
+                                  "url('" +
+                                  image +
+                                  "') center center no-repeat",
+                                backgroundSize: "cover",
+                              }}
+                            ></div>
+                            <div>
+                              <div className="text-muted ">
+                                <small>
+                                  <Date dateString={date} />
+                                </small>
+                              </div>
+                              <Link href={`/blog/${slug}`}>
+                                <a className="blog-title">{title}</a>
+                              </Link>
+                            </div>
+                          </div>
+                        </div>
+                      ))
+                      .slice(0, 2)}
+
+                    <h4 className="mb-3">News</h4>
+                    {allPostsData
+                      .filter(function (el) {
+                        return "News" === el.type;
+                      })
+                      .map(({ slug, date, title, description, image }) => (
+                        <div>
+                          <div key={slug} className="mt-2 mb-3">
+                            <div
+                              className="gss-link-img"
+                              style={{
+                                background:
+                                  "url('" +
+                                  image +
+                                  "') center center no-repeat",
+                                backgroundSize: "cover",
+                              }}
+                            ></div>
+                            <div>
+                              <div className="text-muted ">
+                                <small>
+                                  <Date dateString={date} />
+                                </small>
+                              </div>
+                              <Link href={`/blog/${slug}`}>
+                                <a className="blog-title">{title}</a>
+                              </Link>
+                            </div>
+                          </div>
+                        </div>
+                      ))
+                      .slice(0, 2)}
+                    <br />
+                  </div>
                 </div>
               </div>
             </div>
