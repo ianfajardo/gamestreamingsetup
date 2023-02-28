@@ -22,17 +22,20 @@ Additionally, a high-quality background can help to establish your brand and mak
 
 That's where our Anime VTuber Background Image Pack comes in. Our collection of static images is designed specifically for VTubers, Twitch streamers, and YouTubers who want to create a more immersive and engaging virtual experience. Each image is carefully crafted with attention to detail and optimized for high-resolution displays, so your viewers can appreciate the intricate details of each background.
 
-<div class="row my-4">
+<div class="row">
+
 <div class="col-lg-4">
 
-<a href="https://www.amazon.com/Logitech-Mic-Enabled-Certified-Microsoft-Compatible/dp/B09DVGV7BH?pd_rd_w=nme3A&content-id=amzn1.sym.1bcf206d-941a-4dd9-9560-bdaa3c824953&pf_rd_p=1bcf206d-941a-4dd9-9560-bdaa3c824953&pf_rd_r=DHT9CQ3A7S4S5JYA240B&pd_rd_wg=REUMD&pd_rd_r=b2ea046d-3d3d-4521-b887-ad1017fe4985&pd_rd_i=B09DVGV7BH&linkCode=li3&tag=gamestreamingsetup-20&linkId=ed260768c0732e1cdaae63ca1ce455e4&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09DVGV7BH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B09DVGV7BH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Logitech-Mic-Enabled-Certified-Microsoft-Compatible/dp/B09DVGV7BH?crid=2UMKP4CV1HFD0&keywords=c920e&qid=1677623966&sprefix=c920e%2Caps%2C93&sr=8-3&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&linkCode=li3&tag=gamestreamingsetup-20&linkId=978164c61034a59a4f68b85cf0b7ff01&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09DVGV7BH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B09DVGV7BH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
-<div class="col-lg-8>
 
-## Logitech C920c Webcam
+<div class="col-lg-8">
+
+### Logitech C920e
 
 The Logitech C920 is the best webcam for VTubing due to its 1080p resolution, reliable autofocus, wide-angle lens, and compatibility with popular streaming software, all for an affordable price.
+
 
 
 
