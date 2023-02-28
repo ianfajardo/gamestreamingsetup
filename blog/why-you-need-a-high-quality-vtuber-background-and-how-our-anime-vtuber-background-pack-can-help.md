@@ -22,7 +22,7 @@ Additionally, a high-quality background can help to establish your brand and mak
 
 That's where our Anime VTuber Background Image Pack comes in. Our collection of static images is designed specifically for VTubers, Twitch streamers, and YouTubers who want to create a more immersive and engaging virtual experience. Each image is carefully crafted with attention to detail and optimized for high-resolution displays, so your viewers can appreciate the intricate details of each background.
 
-<div class="row">
+<div class="row align-items-center my-4">
 
 <div class="col-lg-4">
 
@@ -39,6 +39,7 @@ The Logitech C920 is the best webcam for VTubing due to its 1080p resolution, re
 
 
 
+<a href="https://amzn.to/3Zb1KJ2" class="btn btn-primary">Learn More</a>
 
 </div>
 
