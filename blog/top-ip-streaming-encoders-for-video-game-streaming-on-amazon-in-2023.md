@@ -19,7 +19,7 @@ If you're an avid video gamer looking to share your gameplay with the world, the
 
 The Elgato Game Capture HD60 X is one of the most popular IP streaming encoders among gamers. It offers 1080p60 or 4k30 capture, which is perfect for streaming high-quality gameplay footage. It connects easily to your gaming console, PC, or laptop via USB 3.0, and it's compatible with all major streaming platforms. The device is also compact and easy to set up, making it a great choice for beginners.
 
-<a href="https://amzn.to/40JNmI3" class="btn btn-seconedary">Learn More</a>
+<a href="https://amzn.to/40JNmI3" class="btn btn-secondary">Learn More</a>
 
 ## 2. AVerMedia Live Gamer Portable 2 Plus
 
@@ -27,7 +27,7 @@ The Elgato Game Capture HD60 X is one of the most popular IP streaming encoders 
 
 The AVerMedia Live Gamer Portable 2 Plus is another popular IP streaming encoder for gamers. It offers 1080p60 capture and supports a wide range of gaming consoles, including PlayStation, Xbox, and Nintendo Switch. The device also has a built-in audio mixer, which allows you to control the audio levels of your gameplay and microphone separately. It's easy to set up and use, and it comes with a range of useful features, such as a built-in video editor and live commentary support.
 
-<a href="https://amzn.to/3U5GUJH" class="btn btn-seconedary">Learn More</a>
+<a href="https://amzn.to/3U5GUJH" class="btn btn-secondary">Learn More</a>
 
 ## 3. Razer Ripsaw HD
 
@@ -35,7 +35,7 @@ The AVerMedia Live Gamer Portable 2 Plus is another popular IP streaming encoder
 
 The Razer Ripsaw HD is a high-performance IP streaming encoder that offers 1080p60 capture and ultra-low latency. It connects easily to your gaming console or PC via USB 3.0, and it supports a wide range of streaming platforms, including Twitch and YouTube. The device also has a built-in audio mixer, which allows you to control the audio levels of your gameplay and microphone separately. It's a bit on the pricey side, but if you're looking for a top-of-the-line streaming encoder, the Ripsaw HD is definitely worth considering.
 
-<a href="https://amzn.to/40Kn9cm" class="btn btn-seconedary">Learn More</a>
+<a href="https://amzn.to/40Kn9cm" class="btn btn-secondary">Learn More</a>
 
 ## 4. Hauppauge HD PVR Rocket
 
@@ -43,7 +43,7 @@ The Razer Ripsaw HD is a high-performance IP streaming encoder that offers 1080p
 
 The Hauppauge HD PVR Rocket is a compact and affordable IP streaming encoder that offers 1080p30 capture. It connects easily to your gaming console or PC via HDMI, and it supports a range of streaming platforms, including Twitch and YouTube. The device is also easy to set up and use, and it comes with a range of useful features, such as a built-in video editor and live commentary support.
 
-<a href="https://amzn.to/3KbiV8l" class="btn btn-seconedary">Learn More</a>
+<a href="https://amzn.to/3KbiV8l" class="btn btn-secondary">Learn More</a>
 
 ## 5. MiraBox USB 3.0 HDMI Game Capture Card
 
@@ -51,6 +51,6 @@ The Hauppauge HD PVR Rocket is a compact and affordable IP streaming encoder tha
 
 The MiraBox USB 3.0 HDMI Game Capture Card is a budget-friendly IP streaming encoder that offers 1080p60 capture. It connects easily to your gaming console or PC via USB 3.0, and it supports a range of streaming platforms, including Twitch and YouTube. The device is easy to set up and use, and it comes with a range of useful features, such as a built-in video editor and live commentary support.
 
-<a href="https://amzn.to/3JRJzlt" class="btn btn-seconedary">Learn More</a>
+<a href="https://amzn.to/3JRJzlt" class="btn btn-secondary">Learn More</a>
 
 In conclusion, there are plenty of great IP streaming encoders for video game streaming available on Amazon. Whether you're looking for a high-performance device or an affordable option, there's sure to be an encoder that meets your needs. So, get ready to share your gaming adventures with the world and start streaming today!
