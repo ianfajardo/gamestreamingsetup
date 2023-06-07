@@ -18,19 +18,15 @@ In the world of content creation, quality lighting is paramount. Whether you're 
 
 ## Compact and Portable Design
 
-One of the standout features of the Logitech for Creators Litra Beam is its compact and portable design. This lightweight key light fits comfortably in the palm of your hand and can be easily transported wherever your creativity takes you. Whether you're shooting indoors or outdoors, the Litra Beam's durable construction ensures it can withstand the rigors of on-the-go production.
+One of the standout features of the Logitech for Creators Litra Beam is its compact and portable design. The Litra Beam has a sleek design and slim profile with an adjustable LED light with a 3 way adjustable stand and 3 mount points on the light for positioning flexibility. 
 
 ## Adjustable Brightness and Color Temperature
 
-The Litra Beam provides creators with unparalleled control over their lighting environment. With adjustable brightness ranging from 0 to 100%, you can fine-tune the lighting to suit your needs. Moreover, the color temperature ranges from 3000K to 6000K, allowing you to achieve warm or cool lighting depending on your preferences. This level of customization ensures that your videos always have the perfect lighting, enhancing the overall quality and professionalism of your content.
-
-## Wireless and Versatile
-
-Gone are the days of tangled cords and limited mobility. The Logitech for Creators Litra Beam is equipped with a built-in rechargeable battery, eliminating the need for constant power connections. With up to 10 hours of battery life, you can comfortably stream or record without worrying about interruptions. Additionally, the Litra Beam can be mounted on a variety of devices, from tripods to smartphones, thanks to its included mounting options. This versatility empowers creators to explore different shooting angles and setups effortlessly.
+The Litra Beam provides creators with unparalleled control over their lighting environment. With adjustable 5 brightness and 5 color temperature settings, you can fine-tune the lighting to suit your needs. Moreover, the color temperature ranges from 2700K to 6500K, allowing you to achieve warm or cool lighting depending on your preferences. This level of customization ensures that your videos always have the perfect lighting, enhancing the overall quality and professionalism of your content.
 
 ## High-Quality Lighting Output
 
-The Litra Beam's premium LED technology ensures outstanding lighting output. The CRI (Color Rendering Index) of 95+ guarantees accurate color representation, allowing your content to look vibrant and true-to-life. Whether you're showcasing products, capturing your artistic skills, or engaging with your audience, the Litra Beam ensures your videos will be visually stunning and captivating.
+The Litra Beam's premium TrueSoft technologyLensures outstanding lighting output. The Logitech TrueSoft displays a balanced, full-spectrum light with an accurate color representation, allowing your content to look vibrant and true-to-life. Whether you're showcasing products, capturing your artistic skills, or engaging with your audience, the Litra Beam ensures your videos will be visually stunning and captivating.
 
 ![Logitech Litra Beam](/81xgm-kkq-l.jpg "Logitech Litra Beam")
 
@@ -38,7 +34,7 @@ The Litra Beam's premium LED technology ensures outstanding lighting output. The
 
 ## Intuitive Controls
 
-The Litra Beam features intuitive controls that make it easy to operate. With a single button, you can power the light on and off, adjust brightness, and change color temperature. The user-friendly interface allows you to focus on your creative process rather than spending valuable time on complicated settings.
+The Litra Beam features intuitive controls that make it easy to operate. With two buttons rockers on the back of the LED light, you can power the light on and off, adjust brightness, and change color temperature. The user-friendly interface allows you to focus on your creative process rather than spending valuable time on complicated settings.
 
 ## Conclusion
 
