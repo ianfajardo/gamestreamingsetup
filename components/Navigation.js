@@ -31,7 +31,7 @@ export default function Navigation(props) {
             <Nav className="ms-auto">
               <NavDropdown title="Streaming Guides" id="basic-nav-dropdown">
                 <NavDropdown.Item href="/blog/budget-friendly-guide-streaming-twitch-2022">
-                  Twitch Budget-Friendly Guide 2022
+                  Twitch Budget-Friendly Guide
                 </NavDropdown.Item>
                 <NavDropdown.Item href="/blog/live-streaming-career-tips-tricks-youtuber">
                   Live Streaming as a Career
@@ -61,7 +61,7 @@ export default function Navigation(props) {
                 </NavDropdown.Item>
               </NavDropdown>
               <Nav.Link href="/best-streaming-setup-twitch">
-                Best Twitch Setup 2022
+                Best Twitch Setup 2023
               </Nav.Link>
             </Nav>
             <Form>
