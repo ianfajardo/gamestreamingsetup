@@ -131,18 +131,7 @@ export default function BestStreamingSetupTwitch() {
           </div>
           <div className="row mt-4">
             <div className="col-lg-3">
-              <a href="https://www.amazon.com/Blue-Yeti-Premium-Recording-Streaming/dp/B07QLNYBG9?dchild=1&keywords=blue%2Bnano&qid=1631771296&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNVkyRUs3TkY3SDE0JmVuY3J5cHRlZElkPUEwMjg5NDc3SzE5NFBORk1UOE1KJmVuY3J5cHRlZEFkSWQ9QTAxNjA4NzczOEpUMEVGNUlPTThBJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1&linkCode=li3&tag=gamestreamingsetup-20&linkId=89f12462062e89098e4a6d2e071abbf8&language=en_US&ref_=as_li_ss_il">
-                <img
-                  border="0"
-                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QLNYBG9&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US"
-                />
-              </a>
-              <img
-                src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B07QLNYBG9"
-                width="1"
-                height="1"
-                border="0"
-              />
+              
             </div>
             <div className="col-lg-9">
               <h3>Blue Yeti Nano USB Microphone</h3>
@@ -175,19 +164,7 @@ export default function BestStreamingSetupTwitch() {
           </div>
           <div className="row mt-4">
             <div className="col-lg-3">
-              <a href="https://www.amazon.com/Logitech-C920x-Pro-HD-Webcam/dp/B085TFF7M1?dchild=1&keywords=logitech+c920x&qid=1631771395&sr=8-3&linkCode=li3&tag=gamestreamingsetup-20&linkId=4d736c1ece221ce8942ad1d494295cee&language=en_US&ref_=as_li_ss_il">
-                <img
-                  border="0"
-                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B085TFF7M1&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US"
-                />
-              </a>
-              <img
-                src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B085TFF7M1"
-                width="1"
-                height="1"
-                border="0"
-                alt=""
-              />
+              
             </div>
             <div className="col-lg-9">
               <h3>Logitech C920x Pro Stream Webcam</h3>
@@ -220,19 +197,7 @@ export default function BestStreamingSetupTwitch() {
           </div>
           <div className="row mt-4">
             <div className="col-lg-3">
-              <a href="https://www.amazon.com/Elgato-Game-Capture-HD60-PlayStation/dp/B01DRWCOGA?dchild=1&keywords=elgato+hd60s&qid=1631771467&sr=8-2&linkCode=li3&tag=gamestreamingsetup-20&linkId=6d40db89652e0bf28695256d691ac05d&language=en_US&ref_=as_li_ss_il">
-                <img
-                  border="0"
-                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DRWCOGA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US"
-                />
-              </a>
-              <img
-                src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B01DRWCOGA"
-                width="1"
-                height="1"
-                border="0"
-                alt=""
-              />
+              
             </div>
             <div className="col-lg-9">
               <h3>Elgato HD60s Game Capture Card</h3>
@@ -266,19 +231,7 @@ export default function BestStreamingSetupTwitch() {
           </div>
           <div className="row mt-4">
             <div className="col-lg-3">
-              <a href="https://www.amazon.com/Elgato-professional-multi-layer-app-enabled-temperature/dp/B082QHRZFW?dchild=1&keywords=elgato+key+light&qid=1631771539&sr=8-3&linkCode=li3&tag=gamestreamingsetup-20&linkId=4559a051b78f4a06e4cd73e7f2f2116c&language=en_US&ref_=as_li_ss_il">
-                <img
-                  border="0"
-                  src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082QHRZFW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US"
-                />
-              </a>
-              <img
-                src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B082QHRZFW"
-                width="1"
-                height="1"
-                border="0"
-                alt=""
-              />
+              
             </div>
             <div className="col-lg-9">
               <h3>Elgato Key Light Air</h3>
