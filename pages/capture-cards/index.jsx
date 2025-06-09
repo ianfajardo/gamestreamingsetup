@@ -190,17 +190,6 @@ export default function Capturecards() {
                   <tr>
                     <td>
                       <strong>{product.name}</strong>
-                      <br />
-                      <a href={product.amazon1} target="_blank">
-                        <img border="0" src={product.amazon2} />
-                      </a>
-                      <img
-                        src={product.amazon3}
-                        width="1"
-                        height="1"
-                        border="0"
-                        alt=""
-                      />
                     </td>
                     <td>{product.brand}</td>
                     <td>{product.price}</td>
