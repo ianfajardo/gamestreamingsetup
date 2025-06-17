@@ -1,12 +1,7 @@
 ---
-title: Why You Need a High-Quality VTuber Background and How Our Anime VTuber
-  Background Pack Can Help
-metatitle: Why You Need a High-Quality VTuber Background and How Our Anime
-  VTuber Background Pack Can Help
-description: To create a professional virtual persona and engage viewers,
-  VTubers need high-quality backgrounds that complement their content. Our
-  article explores the importance of backgrounds for VTubers and how our Anime
-  VTuber Background Pack can help.
+title: Why You Need a High-Quality VTuber Background and How Our Anime VTuber Background Pack Can Help
+metatitle: Why You Need a High-Quality VTuber Background and How Our Anime VTuber Background Pack Can Help
+description: To create a professional virtual persona and engage viewers, VTubers need high-quality backgrounds that complement their content. Our article explores the importance of backgrounds for VTubers and how our Anime VTuber Background Pack can help.
 date: 2023-02-28T17:00:21.602Z
 image: /gumroad-thumbnail.png
 category: News
