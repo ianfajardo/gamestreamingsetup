@@ -1,12 +1,12 @@
 ---
-title: Best Capture Cards for Console Streaming: 2025 Buyer’s Guide
-metatitle: Capture Cards for PS5, Xbox Series X, and Switch - 2025 Buyer’s Guide
-description: This guide helps console gamers select the best capture card for streaming gameplay, featuring detailed comparisons and setup tips.
+title: "Best Capture Cards for Console Streaming 2025 Buyer’s Guide"
+metatitle: "Capture Cards for PS5, Xbox Series X, and Switch - 2025 Buyer’s Guide"
+description: "This guide helps console gamers select the best capture card for streaming gameplay, featuring detailed comparisons and setup tips."
 date: 2025-07-18
-category: Guides
-type: Guides
-slug: best-capture-cards-for-console-streaming-2025-buyers-guide
-image: best-capture-cards-for-console-streaming-2025-buyers-guide.png
+category: "Guides"
+type: "Guides"
+slug: "best-capture-cards-for-console-streaming-2025-buyers-guide"
+image: "best-capture-cards-for-console-streaming-2025-buyers-guide.png"
 ---
 
 ### Introduction
