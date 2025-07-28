@@ -1,6 +1,6 @@
 ---
 title: Beginner’s Guide to Streaming Games on Twitch YouTube and Facebook
-metatitle: How to Stream Games on Twitch YouTube and Facebook: A Beginner’s Guide
+metatitle: How to Stream Games on Twitch YouTube and Facebook - A Beginner’s Guide
 description: This guide helps new streamers set up their accounts and hardware on major platforms like Twitch, YouTube, and Facebook.
 date: 2025-07-28
 category: Guides

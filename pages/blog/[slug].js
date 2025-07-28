@@ -258,8 +258,8 @@ export default function Post({ postData, allPostsData }) {
                           <a className="d-block">
                             <img
                               className="img-fluid mb-3"
-                              src={image}
-                              alt="title"
+                              src={"/" + image}
+                              alt={title}
                             />
                           </a>
                         </Link>
